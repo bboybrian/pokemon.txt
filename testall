@@ -1,0 +1,11 @@
+echo Unit testing for all 4 classes
+./test_item | diff - output_I.txt
+./test_atk | diff - output_A.txt
+./test_pkm | diff - output_P.txt
+./test_trn | diff - output_T.txt
+echo Test Upgrades: This tests the Upgrade Phase
+./test_upgrade < input_u.txt | diff - output_u.txt
+echo Test Challenge: This tests the Challenge Phase
+./test_challenge < input_c.txt | diff - output_c.txt
+echo Test main: This input file tests bad inputs up to the challenge phase
+./main < input.txt

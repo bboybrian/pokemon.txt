@@ -1,0 +1,398 @@
+
+Enter a name:
+
+Choose a Starter:
+Name:		Squirtle
+Level:		5
+Type:		Water 
+HP:		54/54
+
+Name:		Bulbasaur
+Level:		5
+Type:		Grass Poison 
+HP:		55/55
+
+Name:		Charmander
+Level:		5
+Type:		Fire 
+HP:		49/49
+
+[ 1 / 2 / 3 ]
+
+Name your Squirtle:
+
+😀        Kiddo's Team        😀
+1: Squirtle LVL 5 Water
+
+🎒        Backpack        🎒
+Money:	$1000
+Amt.	Name			Description
+5	Pokeball		A round device used to catch and contain Pokémon.
+0	Potion			Restores a Pokemon by 20HP.
+0	TM			Teaches a Pokemon a new move, based on its type.
+
+🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲         CYCLE 1         🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲
+
+You have earned $2000!
+
+⏩        Prep Phase        ⏩
+1: Use Items
+2: Visit Poke Mart
+3: Release Pokemon
+4: Next Phase
+
+Proceed to Upgrade phase? [1/0]
+
+⏩       Perk Selction Phase        ⏩
+
+💎        Perks        💎
+1: Upgrade Pokeballs
+2: Upgrade Potions 
+3: Level up a Pokemon
+Invalid input!
+
+1: Upgrade Pokeballs
+2: Upgrade Potions 
+3: Level up a Pokemon
+
+1: Upgrade Pokeballs
+2: Upgrade Potions 
+3: Level up a Pokemon
+
+1: Upgrade Pokeballs
+2: Upgrade Potions 
+3: Level up a Pokemon
+
+1: Upgrade Pokeballs
+2: Upgrade Potions 
+3: Level up a Pokemon
+
+You have chosen: Upgrade Pokeballs
+NAME	COST	POTENCY	LEVEL
+Potion	300	20	1
+Great Ball	200	15	2
+🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲         CYCLE 2         🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲
+
+You have earned $2000!
+
+⏩        Prep Phase        ⏩
+1: Use Items
+2: Visit Poke Mart
+3: Release Pokemon
+4: Next Phase
+
+Proceed to Upgrade phase? [1/0]
+
+⏩       Perk Selction Phase        ⏩
+
+💎        Perks        💎
+1: Upgrade Pokeballs
+2: Upgrade Potions 
+3: Level up a Pokemon
+
+You have chosen: Upgrade Potions
+NAME	COST	POTENCY	LEVEL
+Super Potion	300	50	2
+Great Ball	200	15	2
+🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲         CYCLE 3         🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲
+
+You have earned $2000!
+
+⏩        Prep Phase        ⏩
+1: Use Items
+2: Visit Poke Mart
+3: Release Pokemon
+4: Next Phase
+
+Proceed to Upgrade phase? [1/0]
+
+⏩       Perk Selction Phase        ⏩
+
+💎        Perks        💎
+1: Upgrade Pokeballs
+2: Upgrade Potions 
+3: Level up a Pokemon
+
+You have chosen: Upgrade Pokeballs
+NAME	COST	POTENCY	LEVEL
+Super Potion	300	50	2
+Ultra Ball	200	20	3
+🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲         CYCLE 4         🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲
+
+You have earned $2000!
+
+⏩        Prep Phase        ⏩
+1: Use Items
+2: Visit Poke Mart
+3: Release Pokemon
+4: Next Phase
+
+Proceed to Upgrade phase? [1/0]
+
+⏩       Perk Selction Phase        ⏩
+
+💎        Perks        💎
+1: Upgrade Pokeballs
+2: Upgrade Potions 
+3: Level up a Pokemon
+
+You have chosen: Upgrade Potions
+NAME	COST	POTENCY	LEVEL
+Hyper Potion	300	200	3
+Ultra Ball	200	20	3
+🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲         CYCLE 5         🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲
+
+You have earned $2000!
+
+⏩        Prep Phase        ⏩
+1: Use Items
+2: Visit Poke Mart
+3: Release Pokemon
+4: Next Phase
+
+Proceed to Upgrade phase? [1/0]
+
+⏩       Perk Selction Phase        ⏩
+
+💎        Perks        💎
+1: Upgrade Pokeballs
+2: Upgrade Potions 
+3: Level up a Pokemon
+
+You have chosen: Upgrade Pokeballs
+NAME	COST	POTENCY	LEVEL
+Hyper Potion	300	200	3
+Heal Ball	200	10	4
+🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲         CYCLE 6         🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲
+
+You have earned $2000!
+
+⏩        Prep Phase        ⏩
+1: Use Items
+2: Visit Poke Mart
+3: Release Pokemon
+4: Next Phase
+
+Proceed to Upgrade phase? [1/0]
+
+⏩       Perk Selction Phase        ⏩
+
+💎        Perks        💎
+1: Upgrade Pokeballs
+2: Upgrade Potions 
+3: Level up a Pokemon
+
+You have chosen: Upgrade Potions
+NAME	COST	POTENCY	LEVEL
+Max Potion	300	1000	4
+Heal Ball	200	10	4
+🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲         CYCLE 7         🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲
+
+You have earned $2000!
+
+⏩        Prep Phase        ⏩
+1: Use Items
+2: Visit Poke Mart
+3: Release Pokemon
+4: Next Phase
+
+Proceed to Upgrade phase? [1/0]
+
+⏩       Perk Selction Phase        ⏩
+
+💎        Perks        💎
+1: Upgrade Pokeballs
+2: Upgrade Potions 
+3: Level up a Pokemon
+
+You have chosen: Upgrade Pokeballs
+Pokeballs cannot be upgraded further!
+💎        Perks        💎
+1: Upgrade Pokeballs
+2: Upgrade Potions 
+3: Level up a Pokemon
+
+1: Upgrade Pokeballs
+2: Upgrade Potions 
+3: Level up a Pokemon
+
+You have chosen: Upgrade Pokeballs
+Pokeballs cannot be upgraded further!
+💎        Perks        💎
+1: Upgrade Pokeballs
+2: Upgrade Potions 
+3: Level up a Pokemon
+
+You have chosen: Upgrade Potions
+Potions cannot be upgraded further!
+💎        Perks        💎
+1: Upgrade Pokeballs
+2: Upgrade Potions 
+3: Level up a Pokemon
+
+You have chosen: Level up a Pokemon
+Choose a Pokemon
+😀        Kiddo's Team        😀
+1: Squirtle LVL 5 Water
+
+Invalid input!
+
+Choose a Pokemon
+😀        Kiddo's Team        😀
+1: Squirtle LVL 5 Water
+
+
+Choose a Pokemon
+😀        Kiddo's Team        😀
+1: Squirtle LVL 5 Water
+
+
+Choose a Pokemon
+😀        Kiddo's Team        😀
+1: Squirtle LVL 5 Water
+
+
+Choose a Pokemon
+😀        Kiddo's Team        😀
+1: Squirtle LVL 5 Water
+
+
+Squirtle has gained 61 EXP!
+✨    Squirtle has leveled up!    ✨
+NAME	COST	POTENCY	LEVEL
+Max Potion	300	1000	4
+Heal Ball	200	10	4
+🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲         CYCLE 8         🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲
+
+You have earned $2000!
+
+⏩        Prep Phase        ⏩
+1: Use Items
+2: Visit Poke Mart
+3: Release Pokemon
+4: Next Phase
+
+Proceed to Upgrade phase? [1/0]
+
+⏩       Perk Selction Phase        ⏩
+
+💎        Perks        💎
+1: Upgrade Pokeballs
+2: Upgrade Potions 
+3: Level up a Pokemon
+
+You have chosen: Level up a Pokemon
+Choose a Pokemon
+😀        Kiddo's Team        😀
+1: Squirtle LVL 6 Water
+
+
+Squirtle has gained 218 EXP!
+✨    Squirtle has leveled up!    ✨
+NAME	COST	POTENCY	LEVEL
+Max Potion	300	1000	4
+Heal Ball	200	10	4
+🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲         CYCLE 9         🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲
+
+You have earned $2000!
+
+⏩        Prep Phase        ⏩
+1: Use Items
+2: Visit Poke Mart
+3: Release Pokemon
+4: Next Phase
+
+🏬        Poke Mart        🏬
+Money:	$19000
+What would you like to buy?
+S/N	Price		Name
+1:	$200		Heal Ball
+2:	$300		Max Potion
+3:	$500		TM
+
+
+How many would you like?
+
+You have spent $3000.
+
+🎒        Backpack        🎒
+Money:	$16000
+Amt.	Name			Description
+5	Heal Ball		Fully restores HP & PP of caught Pokemon.
+10	Max Potion		Restores all of a Pokemon's HP.
+0	TM			Teaches a Pokemon a new move, based on its type.
+
+Proceed to Upgrade phase? [1/0]
+
+1: Use Items
+2: Visit Poke Mart
+3: Release Pokemon
+4: Next Phase
+
+1: Use Max Potion
+2: Use TM
+
+Choose a Pokemon
+😀        Kiddo's Team        😀
+1: Squirtle LVL 7 Water
+
+
+Squirtle's HP remains unchanged.
+
+🎒        Backpack        🎒
+Money:	$16000
+Amt.	Name			Description
+5	Heal Ball		Fully restores HP & PP of caught Pokemon.
+9	Max Potion		Restores all of a Pokemon's HP.
+0	TM			Teaches a Pokemon a new move, based on its type.
+
+Proceed to Upgrade phase? [1/0]
+
+⏩       Perk Selction Phase        ⏩
+
+💎        Perks        💎
+1: Upgrade Pokeballs
+2: Upgrade Potions 
+3: Level up a Pokemon
+
+You have chosen: Level up a Pokemon
+Choose a Pokemon
+😀        Kiddo's Team        😀
+1: Squirtle LVL 7 Water
+
+
+Squirtle has gained 169 EXP!
+✨    Squirtle has leveled up!    ✨
+NAME	COST	POTENCY	LEVEL
+Max Potion	300	1000	4
+Heal Ball	200	10	4
+🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲         CYCLE 10         🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲
+
+You have earned $2000!
+
+⏩        Prep Phase        ⏩
+1: Use Items
+2: Visit Poke Mart
+3: Release Pokemon
+4: Next Phase
+
+Proceed to Upgrade phase? [1/0]
+
+⏩       Perk Selction Phase        ⏩
+
+💎        Perks        💎
+1: Upgrade Pokeballs
+2: Upgrade Potions 
+3: Level up a Pokemon
+
+You have chosen: Level up a Pokemon
+Choose a Pokemon
+😀        Kiddo's Team        😀
+1: Squirtle LVL 8 Water
+
+
+Squirtle has gained 217 EXP!
+✨    Squirtle has leveled up!    ✨
+NAME	COST	POTENCY	LEVEL
+Max Potion	300	1000	4
+Heal Ball	200	10	4

@@ -1,0 +1,5 @@
+Globalize Attack **all_attacks by putting it in Pokemon.h
+Globalize Pokemon *pokedex by putting it in Trainer.h
+Remove unused functions from classes
+Remove duplicate #includes
+Make items work

@@ -1,0 +1,778 @@
+
+Enter a name:
+
+Choose a Starter:
+Name:		Squirtle
+Level:		5
+Type:		Water 
+HP:		54/54
+
+Name:		Bulbasaur
+Level:		5
+Type:		Grass Poison 
+HP:		55/55
+
+Name:		Charmander
+Level:		5
+Type:		Fire 
+HP:		49/49
+
+[ 1 / 2 / 3 ]
+Invalid input!
+
+[ 1 / 2 / 3 ]
+
+[ 1 / 2 / 3 ]
+
+[ 1 / 2 / 3 ]
+
+[ 1 / 2 / 3 ]
+
+Name your Charmander:
+
+😀        Brian Tan's Team        😀
+1: Chik en   (Charmander) LVL 5 Fire
+
+🎒        Backpack        🎒
+Money:	$1000
+Amt.	Name			Description
+5	Pokeball		A round device used to catch and contain Pokémon.
+0	Potion			Restores a Pokemon by 20HP.
+0	TM			Teaches a Pokemon a new move, based on its type.
+
+🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲         CYCLE 1         🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲
+
+⏩        Prep Phase        ⏩
+1: Use Items
+2: Visit Poke Mart
+3: Release Pokemon
+4: Next Phase
+Invalid input!
+
+1: Use Items
+2: Visit Poke Mart
+3: Release Pokemon
+4: Next Phase
+
+1: Use Items
+2: Visit Poke Mart
+3: Release Pokemon
+4: Next Phase
+
+1: Use Items
+2: Visit Poke Mart
+3: Release Pokemon
+4: Next Phase
+
+1: Use Items
+2: Visit Poke Mart
+3: Release Pokemon
+4: Next Phase
+
+🏬        Poke Mart        🏬
+Money:	$1000
+What would you like to buy?
+S/N	Price		Name
+1:	$200		Pokeball
+2:	$300		Potion
+3:	$500		TM
+Invalid input!
+
+1:	$200		Pokeball
+2:	$300		Potion
+3:	$500		TM
+
+1:	$200		Pokeball
+2:	$300		Potion
+3:	$500		TM
+
+1:	$200		Pokeball
+2:	$300		Potion
+3:	$500		TM
+
+1:	$200		Pokeball
+2:	$300		Potion
+3:	$500		TM
+
+
+How many would you like?
+Invalid input!
+
+
+How many would you like?
+
+
+How many would you like?
+
+You have spent $500.
+
+🎒        Backpack        🎒
+Money:	$500
+Amt.	Name			Description
+5	Pokeball		A round device used to catch and contain Pokémon.
+0	Potion			Restores a Pokemon by 20HP.
+1	TM			Teaches a Pokemon a new move, based on its type.
+
+Proceed to encounter phase? [1/0]
+Invalid input!
+
+1: Use Items
+2: Visit Poke Mart
+3: Release Pokemon
+4: Next Phase
+
+1: Use Potion
+2: Use TM
+Invalid input!
+
+1: Use Potion
+2: Use TM
+
+1: Use Potion
+2: Use TM
+
+1: Use Potion
+2: Use TM
+
+1: Use Potion
+2: Use TM
+
+Choose a Pokemon
+😀        Brian Tan's Team        😀
+1: Chik en   (Charmander) LVL 5 Fire
+
+Invalid input!
+
+Choose a Pokemon
+😀        Brian Tan's Team        😀
+1: Chik en   (Charmander) LVL 5 Fire
+
+
+Choose a Pokemon
+😀        Brian Tan's Team        😀
+1: Chik en   (Charmander) LVL 5 Fire
+
+
+Choose a Pokemon
+😀        Brian Tan's Team        😀
+1: Chik en   (Charmander) LVL 5 Fire
+
+
+Choose a Pokemon
+😀        Brian Tan's Team        😀
+1: Chik en   (Charmander) LVL 5 Fire
+
+
+Replace which of Chik en's moves?
+1: Fire Fang (Fire)
+2: Ember (Fire)
+3: Flame Burst (Fire)
+4: Extreme Speed (Normal)
+Invalid input!
+
+Replace which of Chik en's moves?
+1: Fire Fang (Fire)
+2: Ember (Fire)
+3: Flame Burst (Fire)
+4: Extreme Speed (Normal)
+
+Replace which of Chik en's moves?
+1: Fire Fang (Fire)
+2: Ember (Fire)
+3: Flame Burst (Fire)
+4: Extreme Speed (Normal)
+
+Replace which of Chik en's moves?
+1: Fire Fang (Fire)
+2: Ember (Fire)
+3: Flame Burst (Fire)
+4: Extreme Speed (Normal)
+
+Replace which of Chik en's moves?
+1: Fire Fang (Fire)
+2: Ember (Fire)
+3: Flame Burst (Fire)
+4: Extreme Speed (Normal)
+
+Replace Flame Burst with move of which type?
+Fire
+Normal
+(Type anything else to cancel)
+Cancelling...
+🎒        Backpack        🎒
+Money:	$500
+Amt.	Name			Description
+5	Pokeball		A round device used to catch and contain Pokémon.
+0	Potion			Restores a Pokemon by 20HP.
+1	TM			Teaches a Pokemon a new move, based on its type.
+
+Proceed to encounter phase? [1/0]
+
+1: Use Items
+2: Visit Poke Mart
+3: Release Pokemon
+4: Next Phase
+
+1: Use Potion
+2: Use TM
+
+Choose a Pokemon
+😀        Brian Tan's Team        😀
+1: Chik en   (Charmander) LVL 5 Fire
+
+
+Replace which of Chik en's moves?
+1: Fire Fang (Fire)
+2: Ember (Fire)
+3: Flame Burst (Fire)
+4: Extreme Speed (Normal)
+
+Replace Flame Burst with move of which type?
+Fire
+Normal
+(Type anything else to cancel)
+Chik en has forgotten Flame Burst!
+Chik en has learned Headbutt!
+
+🎒        Backpack        🎒
+Money:	$500
+Amt.	Name			Description
+5	Pokeball		A round device used to catch and contain Pokémon.
+0	Potion			Restores a Pokemon by 20HP.
+0	TM			Teaches a Pokemon a new move, based on its type.
+
+Proceed to encounter phase? [1/0]
+
+⏩       Encounter Phase        ⏩
+
+⚔️   A wild Cascoon appears!   ⚔️
+Go, Chik en!
+Name:		Cascoon
+Level:		1
+Type:		Bug 
+HP:		52/52
+
+Name:		Chik en	(Charmander)
+Level:		5
+Type:		Fire 
+HP:		49/49
+EXP:		64/125
+Attacks:	Fire Fang, Ember, Headbutt, Extreme Speed
+
+What will you do?
+1: Fight
+2: Use Item
+3: Swap
+4: Run
+Invalid input!
+
+1: Fight
+2: Use Item
+3: Swap
+4: Run
+
+1: Fight
+2: Use Item
+3: Swap
+4: Run
+
+1: Fight
+2: Use Item
+3: Swap
+4: Run
+
+1: Fight
+2: Use Item
+3: Swap
+4: Run
+
+(TEST) WIN1: -1
+💨    Got away safely!    💨
+
+⚔️   A wild Butterfree appears!   ⚔️
+Go, Chik en!
+Name:		Butterfree
+Level:		3
+Type:		Bug Flying 
+HP:		66/66
+
+Name:		Chik en	(Charmander)
+Level:		5
+Type:		Fire 
+HP:		49/49
+EXP:		64/125
+Attacks:	Fire Fang, Ember, Headbutt, Extreme Speed
+
+🎈  Butterfree uses Chatter!
+💢  Chik en takes 5 damage!
+
+(TEST) WIN3: 0
+What will you do?
+1: Fight
+2: Use Item
+3: Swap
+4: Run
+
+(TEST) WIN4: -1
+💨    Got away safely!    💨
+
+⚔️   A wild Miltank appears!   ⚔️
+Go, Chik en!
+Name:		Miltank
+Level:		6
+Type:		Normal 
+HP:		107/107
+
+Name:		Chik en	(Charmander)
+Level:		5
+Type:		Fire 
+HP:		44/49
+EXP:		64/125
+Attacks:	Fire Fang, Ember, Headbutt, Extreme Speed
+
+⚪  Miltank uses Quick Attack!
+💢  Chik en takes 7 damage!
+
+(TEST) WIN3: 0
+What will you do?
+1: Fight
+2: Use Item
+3: Swap
+4: Run
+
+(TEST) WIN4: -1
+💨    Got away safely!    💨
+
+⚔️   A wild Alakazam appears!   ⚔️
+Go, Chik en!
+Name:		Alakazam
+Level:		1
+Type:		Psychic 
+HP:		57/57
+
+Name:		Chik en	(Charmander)
+Level:		5
+Type:		Fire 
+HP:		37/49
+EXP:		64/125
+Attacks:	Fire Fang, Ember, Headbutt, Extreme Speed
+
+🔮  Alakazam uses Confusion!
+💢  Chik en takes 3 damage!
+
+(TEST) WIN3: 0
+What will you do?
+1: Fight
+2: Use Item
+3: Swap
+4: Run
+
+(TEST) WIN4: -1
+💨    Got away safely!    💨
+
+⚔️   A wild Trapinch appears!   ⚔️
+Go, Chik en!
+Name:		Trapinch
+Level:		4
+Type:		Ground 
+HP:		53/53
+
+Name:		Chik en	(Charmander)
+Level:		5
+Type:		Fire 
+HP:		34/49
+EXP:		64/125
+Attacks:	Fire Fang, Ember, Headbutt, Extreme Speed
+
+What will you do?
+1: Fight
+2: Use Item
+3: Swap
+4: Run
+
+(TEST) WIN1: -1
+💨    Got away safely!    💨
+
+⚔️   A wild Spinda appears!   ⚔️
+Go, Chik en!
+Name:		Spinda
+Level:		2
+Type:		Normal 
+HP:		64/64
+
+Name:		Chik en	(Charmander)
+Level:		5
+Type:		Fire 
+HP:		34/49
+EXP:		64/125
+Attacks:	Fire Fang, Ember, Headbutt, Extreme Speed
+
+What will you do?
+1: Fight
+2: Use Item
+3: Swap
+4: Run
+
+(TEST) WIN1: -1
+💨    Got away safely!    💨
+
+⚔️   A wild Simisear appears!   ⚔️
+Go, Chik en!
+Name:		Simisear
+Level:		6
+Type:		Fire 
+HP:		87/87
+
+Name:		Chik en	(Charmander)
+Level:		5
+Type:		Fire 
+HP:		34/49
+EXP:		64/125
+Attacks:	Fire Fang, Ember, Headbutt, Extreme Speed
+
+🔥  Simisear uses Flame Burst!
+🤔  It's not very effective...
+💢  Chik en takes 6 damage!
+
+(TEST) WIN3: 0
+What will you do?
+1: Fight
+2: Use Item
+3: Swap
+4: Run
+
+(TEST) WIN4: -1
+💨    Got away safely!    💨
+
+⚔️   A wild Zubat appears!   ⚔️
+Go, Chik en!
+Name:		Zubat
+Level:		2
+Type:		Poison Flying 
+HP:		44/44
+
+Name:		Chik en	(Charmander)
+Level:		5
+Type:		Fire 
+HP:		28/49
+EXP:		64/125
+Attacks:	Fire Fang, Ember, Headbutt, Extreme Speed
+
+What will you do?
+1: Fight
+2: Use Item
+3: Swap
+4: Run
+
+(TEST) WIN1: -1
+💨    Got away safely!    💨
+
+⚔️   A wild Dragonite appears!   ⚔️
+Go, Chik en!
+Name:		Dragonite
+Level:		4
+Type:		Dragon Flying 
+HP:		99/99
+
+Name:		Chik en	(Charmander)
+Level:		5
+Type:		Fire 
+HP:		28/49
+EXP:		64/125
+Attacks:	Fire Fang, Ember, Headbutt, Extreme Speed
+
+🐲  Dragonite uses Dragon Breath!
+💢  Chik en takes 10 damage!
+
+(TEST) WIN3: 0
+What will you do?
+1: Fight
+2: Use Item
+3: Swap
+4: Run
+
+(TEST) WIN4: -1
+💨    Got away safely!    💨
+
+⚔️   A wild Dewgong appears!   ⚔️
+Go, Chik en!
+Name:		Dewgong
+Level:		2
+Type:		Water Ice 
+HP:		94/94
+
+Name:		Chik en	(Charmander)
+Level:		5
+Type:		Fire 
+HP:		18/49
+EXP:		64/125
+Attacks:	Fire Fang, Ember, Headbutt, Extreme Speed
+
+❄️  Dewgong uses Icicle Crash!
+💯  Critical hit!
+🤔  It's not very effective...
+💢  Chik en takes 6 damage!
+
+(TEST) WIN3: 0
+What will you do?
+1: Fight
+2: Use Item
+3: Swap
+4: Run
+
+(TEST) WIN4: -1
+💨    Got away safely!    💨
+
+⏩       Rest Phase        ⏩
+
+⛑️  Chik en restores 20 health!
+
+😀        Brian Tan's Team        😀
+1: Chik en   (Charmander) LVL 5 Fire
+
+1: Use Items
+2: Next Phase
+Invalid input!
+
+1: Use Items
+2: Next Phase
+
+1: Use Items
+2: Next Phase
+
+1: Use Items
+2: Next Phase
+
+1: Use Items
+2: Next Phase
+
+Proceed to challenge phase? [1/0]
+Invalid input!
+
+1: Use Items
+2: Next Phase
+
+1: Use Potion
+2: Use TM
+
+You have no potions!
+
+🎒        Backpack        🎒
+Money:	$500
+Amt.	Name			Description
+5	Pokeball		A round device used to catch and contain Pokémon.
+0	Potion			Restores a Pokemon by 20HP.
+0	TM			Teaches a Pokemon a new move, based on its type.
+
+Proceed to challenge phase? [1/0]
+
+⏩       Challenge Phase        ⏩
+
+⚔️    Ash: “Technology is incredible! The power of C++ is staggering!”    ⚔️
+😀        Ash's Team        😀
+1: Joltik LVL 5 Bug Electric
+2: Clamperl LVL 6 Water
+3: Dewgong LVL 7 Water Ice
+
+😀        Brian Tan's Team        😀
+1: Chik en   (Charmander) LVL 5 Fire
+
+Name:		Joltik
+Level:		5
+Type:		Bug Electric 
+HP:		60/60
+EXP:		64/125
+Attacks:	X-Scissor, Lunge, Bolt Beak, Spark
+
+Name:		Chik en	(Charmander)
+Level:		5
+Type:		Fire 
+HP:		32/49
+EXP:		64/125
+Attacks:	Fire Fang, Ember, Headbutt, Extreme Speed
+
+What will you do?
+1: Fight
+2: Use Potion
+3: Swap
+Invalid input!
+
+1: Fight
+2: Use Potion
+3: Swap
+
+1: Fight
+2: Use Potion
+3: Swap
+
+1: Fight
+2: Use Potion
+3: Swap
+
+1: Fight
+2: Use Potion
+3: Swap
+
+TEST AMT: 0
+You have no potions!
+
+What will you do?
+1: Fight
+2: Use Potion
+3: Swap
+
+Pick an attack		⚔️
+1: Fire Fang		(Fire)		15/15	PP	🎯 95
+2: Ember		(Fire)		25/25	PP	🎯 100
+3: Headbutt		(Normal)	15/15	PP	🎯 100
+4: Extreme Speed	(Normal)	5/5	PP	🎯 100
+Invalid input!
+
+Pick an attack		⚔️
+1: Fire Fang		(Fire)		15/15	PP	🎯 95
+2: Ember		(Fire)		25/25	PP	🎯 100
+3: Headbutt		(Normal)	15/15	PP	🎯 100
+4: Extreme Speed	(Normal)	5/5	PP	🎯 100
+
+Pick an attack		⚔️
+1: Fire Fang		(Fire)		15/15	PP	🎯 95
+2: Ember		(Fire)		25/25	PP	🎯 100
+3: Headbutt		(Normal)	15/15	PP	🎯 100
+4: Extreme Speed	(Normal)	5/5	PP	🎯 100
+
+Pick an attack		⚔️
+1: Fire Fang		(Fire)		15/15	PP	🎯 95
+2: Ember		(Fire)		25/25	PP	🎯 100
+3: Headbutt		(Normal)	15/15	PP	🎯 100
+4: Extreme Speed	(Normal)	5/5	PP	🎯 100
+
+Pick an attack		⚔️
+1: Fire Fang		(Fire)		15/15	PP	🎯 95
+2: Ember		(Fire)		25/25	PP	🎯 100
+3: Headbutt		(Normal)	15/15	PP	🎯 100
+4: Extreme Speed	(Normal)	5/5	PP	🎯 100
+
+🔥  Chik en uses Fire Fang!
+💪  It's super effective!
+💢  Joltik takes 13 damage!
+
+(TEST) WIN1: 0
+⚡  Joltik uses Bolt Beak!
+💯  Critical hit!
+💢  Chik en takes 18 damage!
+
+(TEST) WIN2: 0
+Name:		Joltik
+Level:		5
+Type:		Bug Electric 
+HP:		47/60
+EXP:		64/125
+Attacks:	X-Scissor, Lunge, Bolt Beak, Spark
+
+Name:		Chik en	(Charmander)
+Level:		5
+Type:		Fire 
+HP:		14/49
+EXP:		64/125
+Attacks:	Fire Fang, Ember, Headbutt, Extreme Speed
+
+What will you do?
+1: Fight
+2: Use Potion
+3: Swap
+
+You have no other Pokemon to send out!
+1: Fight
+2: Use Potion
+3: Swap
+
+Pick an attack		⚔️
+1: Fire Fang		(Fire)		14/15	PP	🎯 95
+2: Ember		(Fire)		25/25	PP	🎯 100
+3: Headbutt		(Normal)	15/15	PP	🎯 100
+4: Extreme Speed	(Normal)	5/5	PP	🎯 100
+
+🔥  Chik en uses Fire Fang!
+💪  It's super effective!
+💢  Joltik takes 13 damage!
+
+(TEST) WIN1: 0
+🐞  Joltik uses Lunge!
+🤔  It's not very effective...
+💢  Chik en takes 4 damage!
+
+(TEST) WIN2: 0
+Name:		Joltik
+Level:		5
+Type:		Bug Electric 
+HP:		34/60
+EXP:		64/125
+Attacks:	X-Scissor, Lunge, Bolt Beak, Spark
+
+Name:		Chik en	(Charmander)
+Level:		5
+Type:		Fire 
+HP:		10/49
+EXP:		64/125
+Attacks:	Fire Fang, Ember, Headbutt, Extreme Speed
+
+What will you do?
+1: Fight
+2: Use Potion
+3: Swap
+
+Pick an attack		⚔️
+1: Fire Fang		(Fire)		13/15	PP	🎯 95
+2: Ember		(Fire)		25/25	PP	🎯 100
+3: Headbutt		(Normal)	15/15	PP	🎯 100
+4: Extreme Speed	(Normal)	5/5	PP	🎯 100
+
+🔥  Chik en uses Fire Fang!
+💪  It's super effective!
+💢  Joltik takes 12 damage!
+
+(TEST) WIN1: 0
+🐞  Joltik uses X-Scissor!
+💯  Critical hit!
+🤔  It's not very effective...
+💢  Chik en takes 8 damage!
+
+(TEST) WIN2: 0
+Name:		Joltik
+Level:		5
+Type:		Bug Electric 
+HP:		22/60
+EXP:		64/125
+Attacks:	X-Scissor, Lunge, Bolt Beak, Spark
+
+Name:		Chik en	(Charmander)
+Level:		5
+Type:		Fire 
+HP:		2/49
+EXP:		64/125
+Attacks:	Fire Fang, Ember, Headbutt, Extreme Speed
+
+What will you do?
+1: Fight
+2: Use Potion
+3: Swap
+
+Pick an attack		⚔️
+1: Fire Fang		(Fire)		12/15	PP	🎯 95
+2: Ember		(Fire)		25/25	PP	🎯 100
+3: Headbutt		(Normal)	15/15	PP	🎯 100
+4: Extreme Speed	(Normal)	5/5	PP	🎯 100
+
+🔥  Chik en uses Fire Fang!
+💪  It's super effective!
+💢  Joltik takes 14 damage!
+
+(TEST) WIN1: 0
+⚡  Joltik uses Spark!
+💢  Chik en takes 7 damage!
+
+Chik en has fainted!
+
+Chik en has been released!
+(TEST) WIN2: -2
+You have lost the game...

@@ -1,0 +1,417 @@
+
+Enter a name:
+
+Choose a Starter:
+Name:		Squirtle
+Level:		5
+Type:		Water 
+HP:		54/54
+
+Name:		Bulbasaur
+Level:		5
+Type:		Grass Poison 
+HP:		55/55
+
+Name:		Charmander
+Level:		5
+Type:		Fire 
+HP:		49/49
+
+[ 1 / 2 / 3 ]
+Invalid input!
+
+[ 1 / 2 / 3 ]
+
+[ 1 / 2 / 3 ]
+
+[ 1 / 2 / 3 ]
+
+[ 1 / 2 / 3 ]
+
+Name your Charmander:
+
+😀        Brian Tan's Team        😀
+1: Chik en   (Charmander) LVL 5 Fire
+
+🎒        Backpack        🎒
+Money:	$1000
+Amt.	Name			Description
+5	Pokeball		A round device used to catch and contain Pokémon.
+0	Potion			Restores a Pokemon by 20HP.
+0	TM			Teaches a Pokemon a new move, based on its type.
+
+🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲         CYCLE 1         🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲
+
+⏩        Prep Phase        ⏩
+1: Use Items
+2: Visit Poke Mart
+3: Release Pokemon
+4: Next Phase
+Invalid input!
+
+1: Use Items
+2: Visit Poke Mart
+3: Release Pokemon
+4: Next Phase
+
+1: Use Items
+2: Visit Poke Mart
+3: Release Pokemon
+4: Next Phase
+
+1: Use Items
+2: Visit Poke Mart
+3: Release Pokemon
+4: Next Phase
+
+1: Use Items
+2: Visit Poke Mart
+3: Release Pokemon
+4: Next Phase
+
+🏬        Poke Mart        🏬
+Money:	$1000
+What would you like to buy?
+S/N	Price		Name
+1:	$200		Pokeball
+2:	$300		Potion
+3:	$500		TM
+Invalid input!
+
+1:	$200		Pokeball
+2:	$300		Potion
+3:	$500		TM
+
+1:	$200		Pokeball
+2:	$300		Potion
+3:	$500		TM
+
+1:	$200		Pokeball
+2:	$300		Potion
+3:	$500		TM
+
+1:	$200		Pokeball
+2:	$300		Potion
+3:	$500		TM
+
+
+How many would you like?
+Invalid input!
+
+
+How many would you like?
+
+
+How many would you like?
+
+You have spent $500.
+
+🎒        Backpack        🎒
+Money:	$500
+Amt.	Name			Description
+5	Pokeball		A round device used to catch and contain Pokémon.
+0	Potion			Restores a Pokemon by 20HP.
+1	TM			Teaches a Pokemon a new move, based on its type.
+
+Proceed to encounter phase? [1/0]
+Invalid input!
+
+1: Use Items
+2: Visit Poke Mart
+3: Release Pokemon
+4: Next Phase
+
+1: Use Potion
+2: Use TM
+Invalid input!
+
+1: Use Potion
+2: Use TM
+
+1: Use Potion
+2: Use TM
+
+1: Use Potion
+2: Use TM
+
+1: Use Potion
+2: Use TM
+
+Choose a Pokemon
+😀        Brian Tan's Team        😀
+1: Chik en   (Charmander) LVL 5 Fire
+
+Invalid input!
+
+Choose a Pokemon
+😀        Brian Tan's Team        😀
+1: Chik en   (Charmander) LVL 5 Fire
+
+
+Choose a Pokemon
+😀        Brian Tan's Team        😀
+1: Chik en   (Charmander) LVL 5 Fire
+
+
+Choose a Pokemon
+😀        Brian Tan's Team        😀
+1: Chik en   (Charmander) LVL 5 Fire
+
+
+Choose a Pokemon
+😀        Brian Tan's Team        😀
+1: Chik en   (Charmander) LVL 5 Fire
+
+
+Replace which of Chik en's moves?
+1: Ember (Fire)
+2: Flame Burst (Fire)
+3: Fire Fang (Fire)
+4: False Swipe (Normal)
+Invalid input!
+
+Replace which of Chik en's moves?
+1: Ember (Fire)
+2: Flame Burst (Fire)
+3: Fire Fang (Fire)
+4: False Swipe (Normal)
+
+Replace which of Chik en's moves?
+1: Ember (Fire)
+2: Flame Burst (Fire)
+3: Fire Fang (Fire)
+4: False Swipe (Normal)
+
+Replace which of Chik en's moves?
+1: Ember (Fire)
+2: Flame Burst (Fire)
+3: Fire Fang (Fire)
+4: False Swipe (Normal)
+
+Replace which of Chik en's moves?
+1: Ember (Fire)
+2: Flame Burst (Fire)
+3: Fire Fang (Fire)
+4: False Swipe (Normal)
+
+Replace Fire Fang with move of which type?
+Fire
+Normal
+(Type anything else to cancel)
+Cancelling...
+🎒        Backpack        🎒
+Money:	$500
+Amt.	Name			Description
+5	Pokeball		A round device used to catch and contain Pokémon.
+0	Potion			Restores a Pokemon by 20HP.
+1	TM			Teaches a Pokemon a new move, based on its type.
+
+Proceed to encounter phase? [1/0]
+
+1: Use Items
+2: Visit Poke Mart
+3: Release Pokemon
+4: Next Phase
+
+1: Use Potion
+2: Use TM
+
+Choose a Pokemon
+😀        Brian Tan's Team        😀
+1: Chik en   (Charmander) LVL 5 Fire
+
+
+Replace which of Chik en's moves?
+1: Ember (Fire)
+2: Flame Burst (Fire)
+3: Fire Fang (Fire)
+4: False Swipe (Normal)
+
+Replace Fire Fang with move of which type?
+Fire
+Normal
+(Type anything else to cancel)
+Chik en has forgotten Fire Fang!
+Chik en has learned Body Slam!
+
+🎒        Backpack        🎒
+Money:	$500
+Amt.	Name			Description
+5	Pokeball		A round device used to catch and contain Pokémon.
+0	Potion			Restores a Pokemon by 20HP.
+0	TM			Teaches a Pokemon a new move, based on its type.
+
+Proceed to encounter phase? [1/0]
+
+⏩       Encounter Phase        ⏩
+
+⚔️   A wild Dusknoir appears!   ⚔️
+Go, Chik en!
+Name:		Dusknoir
+Level:		3
+Type:		Ghost 
+HP:		51/51
+
+Name:		Chik en	(Charmander)
+Level:		5
+Type:		Fire 
+HP:		49/49
+EXP:		64/125
+Attacks:	Ember, Flame Burst, Body Slam, False Swipe
+
+What will you do?
+1: Fight
+2: Use Item
+3: Swap
+4: Run
+Invalid input!
+
+1: Fight
+2: Use Item
+3: Swap
+4: Run
+
+1: Fight
+2: Use Item
+3: Swap
+4: Run
+
+1: Fight
+2: Use Item
+3: Swap
+4: Run
+
+1: Fight
+2: Use Item
+3: Swap
+4: Run
+
+(TEST) WIN1: -1
+💨    Got away safely!    💨
+
+⚔️   A wild Shedinja appears!   ⚔️
+Go, Chik en!
+Name:		Shedinja
+Level:		2
+Type:		Bug Ghost 
+HP:		5/5
+
+Name:		Chik en	(Charmander)
+Level:		5
+Type:		Fire 
+HP:		49/49
+EXP:		64/125
+Attacks:	Ember, Flame Burst, Body Slam, False Swipe
+
+What will you do?
+1: Fight
+2: Use Item
+3: Swap
+4: Run
+
+(TEST) WIN1: -1
+💨    Got away safely!    💨
+
+⚔️   A wild Wailord appears!   ⚔️
+Go, Chik en!
+Name:		Wailord
+Level:		2
+Type:		Water 
+HP:		174/174
+
+Name:		Chik en	(Charmander)
+Level:		5
+Type:		Fire 
+HP:		49/49
+EXP:		64/125
+Attacks:	Ember, Flame Burst, Body Slam, False Swipe
+
+What will you do?
+1: Fight
+2: Use Item
+3: Swap
+4: Run
+
+(TEST) WIN1: -1
+💨    Got away safely!    💨
+
+⚔️   A wild Poliwag appears!   ⚔️
+Go, Chik en!
+Name:		Poliwag
+Level:		5
+Type:		Water 
+HP:		50/50
+
+Name:		Chik en	(Charmander)
+Level:		5
+Type:		Fire 
+HP:		49/49
+EXP:		64/125
+Attacks:	Ember, Flame Burst, Body Slam, False Swipe
+
+🌊  Poliwag uses Bubble!
+💯  Critical hit!
+💪  It's super effective!
+💢  Chik en takes 19 damage!
+
+(TEST) WIN3: 0
+What will you do?
+1: Fight
+2: Use Item
+3: Swap
+4: Run
+
+(TEST) WIN4: -1
+💨    Got away safely!    💨
+
+⚔️   A wild Seismitoad appears!   ⚔️
+Go, Chik en!
+Name:		Seismitoad
+Level:		1
+Type:		Water Ground 
+HP:		107/107
+
+Name:		Chik en	(Charmander)
+Level:		5
+Type:		Fire 
+HP:		30/49
+EXP:		64/125
+Attacks:	Ember, Flame Burst, Body Slam, False Swipe
+
+🌊  Seismitoad uses Aqua Tail!
+💪  It's super effective!
+💢  Chik en takes 18 damage!
+
+(TEST) WIN3: 0
+What will you do?
+1: Fight
+2: Use Item
+3: Swap
+4: Run
+
+(TEST) WIN4: -1
+💨    Got away safely!    💨
+
+⚔️   A wild Golduck appears!   ⚔️
+Go, Chik en!
+Name:		Golduck
+Level:		1
+Type:		Water 
+HP:		82/82
+
+Name:		Chik en	(Charmander)
+Level:		5
+Type:		Fire 
+HP:		12/49
+EXP:		64/125
+Attacks:	Ember, Flame Burst, Body Slam, False Swipe
+
+🌊  Golduck uses Water Pulse!
+💪  It's super effective!
+💢  Chik en takes 12 damage!
+
+Chik en has fainted!
+
+Chik en has been released!
+(TEST) WIN3: -2
+You have lost the game...

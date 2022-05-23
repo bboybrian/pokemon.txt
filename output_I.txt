@@ -1,0 +1,11 @@
+Construction successful
+upgrade_item() successful
+buy_item(int amount, int money) successful
+Not enough money! You have: 300
+
+Not enough money successful
+use_item() successful
+Testing print_item():
+6	Ultra Ball		1.5x the catch rate of a Pokeball.
+10	Hyper Potion		Restores a Pokemon by 200HP.
+4	TM			Teaches a Pokemon a new move, based on its type.

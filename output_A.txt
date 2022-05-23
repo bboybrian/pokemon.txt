@@ -1,0 +1,11 @@
+Construction successful
+Testing print_attk():
+Attack:		Aqua Tail
+Type:		Water
+Power:		90
+Power Points:	10/10
+Accuracy:	90
+
+Testing print_small():
+Aqua Jet		(Water)		20/20	PP	🎯 100
+restore_PP() successful

@@ -1,0 +1,1084 @@
+
+Enter a name:
+
+Choose a Starter:
+Name:		Squirtle
+Level:		5
+Type:		Water 
+HP:		54/54
+
+Name:		Bulbasaur
+Level:		5
+Type:		Grass Poison 
+HP:		55/55
+
+Name:		Charmander
+Level:		5
+Type:		Fire 
+HP:		49/49
+
+[ 1 / 2 / 3 ]
+
+Name your Bulbasaur:
+
+😀        Brian's Team        😀
+1: Blubbersaur   (Bulbasaur) LVL 5 Grass Poison
+
+🎒        Backpack        🎒
+Money:	$1000
+Amt.	Name			Description
+5	Pokeball		A round device used to catch and contain Pokémon.
+0	Potion			Restores a Pokemon by 20HP.
+0	TM			Teaches a Pokemon a new move, based on its type.
+
+🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲         CYCLE 1         🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲 🚲
+
+⏩        Prep Phase        ⏩
+1: Use Items
+2: Visit Poke Mart
+3: Release Pokemon
+4: Next Phase
+
+🏬        Poke Mart        🏬
+Money:	$1000
+What would you like to buy?
+S/N	Price		Name
+1:	$200		Pokeball
+2:	$300		Potion
+3:	$500		TM
+
+
+How many would you like?
+
+You have spent $600.
+
+🎒        Backpack        🎒
+Money:	$400
+Amt.	Name			Description
+5	Pokeball		A round device used to catch and contain Pokémon.
+2	Potion			Restores a Pokemon by 20HP.
+0	TM			Teaches a Pokemon a new move, based on its type.
+
+Proceed to encounter phase? [1/0]
+
+1: Use Items
+2: Visit Poke Mart
+3: Release Pokemon
+4: Next Phase
+
+🏬        Poke Mart        🏬
+Money:	$400
+What would you like to buy?
+S/N	Price		Name
+1:	$200		Pokeball
+2:	$300		Potion
+3:	$500		TM
+
+
+How many would you like?
+
+You have spent $400.
+
+🎒        Backpack        🎒
+Money:	$0
+Amt.	Name			Description
+7	Pokeball		A round device used to catch and contain Pokémon.
+2	Potion			Restores a Pokemon by 20HP.
+0	TM			Teaches a Pokemon a new move, based on its type.
+
+Proceed to encounter phase? [1/0]
+
+⏩       Encounter Phase        ⏩
+
+⚔️   A wild Arbok appears!   ⚔️
+Go, Blubbersaur!
+Name:		Arbok
+Level:		1
+Type:		Poison 
+HP:		62/62
+
+Name:		Blubbersaur	(Bulbasaur)
+Level:		5
+Type:		Grass Poison 
+HP:		55/55
+EXP:		64/125
+Attacks:	Branch Poke, Vine Whip, Sludge Wave, Cross Poison
+
+☢️  Arbok uses Cross Poison!
+💢  Blubbersaur takes 6 damage!
+
+(TEST) WIN3: 0
+What will you do?
+1: Fight
+2: Use Item
+3: Swap
+4: Run
+
+1: Use Potion
+2: Use Pokeball
+
+Brian throws a Pokeball!
+ROLL: 5CHANCE: 4
+Arbok escaped!
+(TEST) WIN4: 0
+Name:		Arbok
+Level:		1
+Type:		Poison 
+HP:		62/62
+
+Name:		Blubbersaur	(Bulbasaur)
+Level:		5
+Type:		Grass Poison 
+HP:		49/55
+EXP:		64/125
+Attacks:	Branch Poke, Vine Whip, Sludge Wave, Cross Poison
+
+☢️  Arbok uses Venoshock!
+💢  Blubbersaur takes 6 damage!
+
+(TEST) WIN3: 0
+What will you do?
+1: Fight
+2: Use Item
+3: Swap
+4: Run
+Invalid input!
+
+1: Fight
+2: Use Item
+3: Swap
+4: Run
+
+1: Use Potion
+2: Use Pokeball
+
+Brian throws a Pokeball!
+ROLL: 8CHANCE: 4
+Arbok escaped!
+(TEST) WIN4: 0
+Name:		Arbok
+Level:		1
+Type:		Poison 
+HP:		62/62
+
+Name:		Blubbersaur	(Bulbasaur)
+Level:		5
+Type:		Grass Poison 
+HP:		43/55
+EXP:		64/125
+Attacks:	Branch Poke, Vine Whip, Sludge Wave, Cross Poison
+
+☢️  Arbok uses Sludge Wave!
+💯  Critical hit!
+💢  Blubbersaur takes 15 damage!
+
+(TEST) WIN3: 0
+What will you do?
+1: Fight
+2: Use Item
+3: Swap
+4: Run
+Invalid input!
+
+1: Fight
+2: Use Item
+3: Swap
+4: Run
+
+1: Use Potion
+2: Use Pokeball
+
+Brian throws a Pokeball!
+ROLL: 12CHANCE: 4
+Arbok escaped!
+(TEST) WIN4: 0
+Name:		Arbok
+Level:		1
+Type:		Poison 
+HP:		62/62
+
+Name:		Blubbersaur	(Bulbasaur)
+Level:		5
+Type:		Grass Poison 
+HP:		28/55
+EXP:		64/125
+Attacks:	Branch Poke, Vine Whip, Sludge Wave, Cross Poison
+
+☢️  Arbok uses Sludge Wave!
+💯  Critical hit!
+💢  Blubbersaur takes 16 damage!
+
+(TEST) WIN3: 0
+What will you do?
+1: Fight
+2: Use Item
+3: Swap
+4: Run
+Invalid input!
+
+1: Fight
+2: Use Item
+3: Swap
+4: Run
+
+1: Use Potion
+2: Use Pokeball
+
+Brian throws a Pokeball!
+ROLL: 3CHANCE: 4
+Arbok was caught!
+(TEST) WIN4: 2
+Name your Arbok:
+⚔️   A wild Gliscor appears!   ⚔️
+Go, Blubbersaur!
+Name:		Gliscor
+Level:		3
+Type:		Ground Flying 
+HP:		81/81
+
+Name:		Blubbersaur	(Bulbasaur)
+Level:		5
+Type:		Grass Poison 
+HP:		12/55
+EXP:		64/125
+Attacks:	Branch Poke, Vine Whip, Sludge Wave, Cross Poison
+
+🎈  Gliscor uses Chatter!
+💪  It's super effective!
+💢  Blubbersaur takes 17 damage!
+
+Blubbersaur has fainted!
+
+Blubbersaur has been released!
+Which Pokemon will you send?
+Choose a Pokemon
+😀        Brian's Team        😀
+1: Arbok LVL 1 Poison
+
+Invalid input!
+
+Choose a Pokemon
+😀        Brian's Team        😀
+1: Arbok LVL 1 Poison
+
+
+Choose a Pokemon
+😀        Brian's Team        😀
+1: Arbok LVL 1 Poison
+
+
+Choose a Pokemon
+😀        Brian's Team        😀
+1: Arbok LVL 1 Poison
+
+Invalid input!
+
+Choose a Pokemon
+😀        Brian's Team        😀
+1: Arbok LVL 1 Poison
+
+
+Choose a Pokemon
+😀        Brian's Team        😀
+1: Arbok LVL 1 Poison
+
+
+Choose a Pokemon
+😀        Brian's Team        😀
+1: Arbok LVL 1 Poison
+
+Invalid input!
+
+Choose a Pokemon
+😀        Brian's Team        😀
+1: Arbok LVL 1 Poison
+
+
+Choose a Pokemon
+😀        Brian's Team        😀
+1: Arbok LVL 1 Poison
+
+
+Choose a Pokemon
+😀        Brian's Team        😀
+1: Arbok LVL 1 Poison
+
+Invalid input!
+
+Choose a Pokemon
+😀        Brian's Team        😀
+1: Arbok LVL 1 Poison
+
+
+Choose a Pokemon
+😀        Brian's Team        😀
+1: Arbok LVL 1 Poison
+
+
+Choose a Pokemon
+😀        Brian's Team        😀
+1: Arbok LVL 1 Poison
+
+
+Go, Arbok!
+(TEST) WIN3: 0
+What will you do?
+1: Fight
+2: Use Item
+3: Swap
+4: Run
+
+Pick an attack		⚔️
+1: Sludge Wave		(Poison)	10/10	PP	🎯 100
+2: Cross Poison		(Poison)	20/20	PP	🎯 100
+3: Venoshock		(Poison)	10/10	PP	🎯 100
+4: Chip Away		(Normal)	20/20	PP	🎯 100
+
+⚪  Arbok uses Chip Away!
+💢  Gliscor takes 3 damage!
+
+(TEST) WIN4: 0
+Name:		Gliscor
+Level:		3
+Type:		Ground Flying 
+HP:		78/81
+
+Name:		Arbok
+Level:		1
+Type:		Poison 
+HP:		62/62
+EXP:		0/1
+Attacks:	Sludge Wave, Cross Poison, Venoshock, Chip Away
+
+🐘  Gliscor uses Land's Wrath!
+💪  It's super effective!
+💢  Arbok takes 19 damage!
+
+(TEST) WIN3: 0
+What will you do?
+1: Fight
+2: Use Item
+3: Swap
+4: Run
+
+(TEST) WIN4: -1
+💨    Got away safely!    💨
+
+⚔️   A wild Omanyte appears!   ⚔️
+Go, Arbok!
+Name:		Omanyte
+Level:		1
+Type:		Rock Water 
+HP:		37/37
+
+Name:		Arbok
+Level:		1
+Type:		Poison 
+HP:		43/62
+EXP:		0/1
+Attacks:	Sludge Wave, Cross Poison, Venoshock, Chip Away
+
+What will you do?
+1: Fight
+2: Use Item
+3: Swap
+4: Run
+
+(TEST) WIN1: -1
+💨    Got away safely!    💨
+
+⚔️   A wild Rattata appears!   ⚔️
+Go, Arbok!
+Name:		Rattata
+Level:		1
+Type:		Normal 
+HP:		32/32
+
+Name:		Arbok
+Level:		1
+Type:		Poison 
+HP:		43/62
+EXP:		0/1
+Attacks:	Sludge Wave, Cross Poison, Venoshock, Chip Away
+
+What will you do?
+1: Fight
+2: Use Item
+3: Swap
+4: Run
+
+(TEST) WIN1: -1
+💨    Got away safely!    💨
+
+⚔️   A wild Nuzleaf appears!   ⚔️
+Go, Arbok!
+Name:		Nuzleaf
+Level:		2
+Type:		Grass Dark 
+HP:		74/74
+
+Name:		Arbok
+Level:		1
+Type:		Poison 
+HP:		43/62
+EXP:		0/1
+Attacks:	Sludge Wave, Cross Poison, Venoshock, Chip Away
+
+What will you do?
+1: Fight
+2: Use Item
+3: Swap
+4: Run
+
+(TEST) WIN1: -1
+💨    Got away safely!    💨
+
+⚔️   A wild Wurmple appears!   ⚔️
+Go, Arbok!
+Name:		Wurmple
+Level:		4
+Type:		Bug 
+HP:		53/53
+
+Name:		Arbok
+Level:		1
+Type:		Poison 
+HP:		43/62
+EXP:		0/1
+Attacks:	Sludge Wave, Cross Poison, Venoshock, Chip Away
+
+What will you do?
+1: Fight
+2: Use Item
+3: Swap
+4: Run
+
+(TEST) WIN1: -1
+💨    Got away safely!    💨
+
+⚔️   A wild Mr. Mime appears!   ⚔️
+Go, Arbok!
+Name:		Mr. Mime
+Level:		1
+Type:		Psychic Fairy 
+HP:		42/42
+
+Name:		Arbok
+Level:		1
+Type:		Poison 
+HP:		43/62
+EXP:		0/1
+Attacks:	Sludge Wave, Cross Poison, Venoshock, Chip Away
+
+🧚  Mr. Mime uses Fairy Wind!
+🤔  It's not very effective...
+💢  Arbok takes 1 damage!
+
+(TEST) WIN3: 0
+What will you do?
+1: Fight
+2: Use Item
+3: Swap
+4: Run
+
+(TEST) WIN4: -1
+💨    Got away safely!    💨
+
+⚔️   A wild Kricketot appears!   ⚔️
+Go, Arbok!
+Name:		Kricketot
+Level:		2
+Type:		Bug 
+HP:		41/41
+
+Name:		Arbok
+Level:		1
+Type:		Poison 
+HP:		42/62
+EXP:		0/1
+Attacks:	Sludge Wave, Cross Poison, Venoshock, Chip Away
+
+What will you do?
+1: Fight
+2: Use Item
+3: Swap
+4: Run
+
+(TEST) WIN1: -1
+💨    Got away safely!    💨
+
+⚔️   A wild Cottonee appears!   ⚔️
+Go, Arbok!
+Name:		Cottonee
+Level:		1
+Type:		Grass Fairy 
+HP:		42/42
+
+Name:		Arbok
+Level:		1
+Type:		Poison 
+HP:		42/62
+EXP:		0/1
+Attacks:	Sludge Wave, Cross Poison, Venoshock, Chip Away
+
+What will you do?
+1: Fight
+2: Use Item
+3: Swap
+4: Run
+
+(TEST) WIN1: -1
+💨    Got away safely!    💨
+
+⚔️   A wild Victreebel appears!   ⚔️
+Go, Arbok!
+Name:		Victreebel
+Level:		2
+Type:		Grass Poison 
+HP:		84/84
+
+Name:		Arbok
+Level:		1
+Type:		Poison 
+HP:		42/62
+EXP:		0/1
+Attacks:	Sludge Wave, Cross Poison, Venoshock, Chip Away
+
+What will you do?
+1: Fight
+2: Use Item
+3: Swap
+4: Run
+
+(TEST) WIN1: -1
+💨    Got away safely!    💨
+
+⏩       Rest Phase        ⏩
+
+⛑️  Arbok restores 20 health!
+
+😀        Brian's Team        😀
+1: Arbok LVL 1 Poison
+
+1: Use Items
+2: Next Phase
+
+1: Use Items
+2: Next Phase
+
+Proceed to challenge phase? [1/0]
+
+⏩       Challenge Phase        ⏩
+
+⚔️    Ash: “Technology is incredible! The power of C++ is staggering!”    ⚔️
+😀        Ash's Team        😀
+1: Fearow LVL 1 Normal Flying
+2: Helioptile LVL 2 Electric Normal
+3: Bunnelby LVL 3 Normal
+
+😀        Brian's Team        😀
+1: Arbok LVL 1 Poison
+
+Name:		Fearow
+Level:		1
+Type:		Normal Flying 
+HP:		67/67
+EXP:		0/1
+Attacks:	Chip Away, False Swipe, Acrobatics, Peck
+
+Name:		Arbok
+Level:		1
+Type:		Poison 
+HP:		62/62
+EXP:		0/1
+Attacks:	Sludge Wave, Cross Poison, Venoshock, Chip Away
+
+⚪  Fearow uses Chip Away!
+💢  Arbok takes 5 damage!
+
+(TEST) WIN3: 0
+TEST: Fearow
+What will you do?
+1: Fight
+2: Use Potion
+3: Swap
+
+Pick an attack		⚔️
+1: Sludge Wave		(Poison)	10/10	PP	🎯 100
+2: Cross Poison		(Poison)	20/20	PP	🎯 100
+3: Venoshock		(Poison)	10/10	PP	🎯 100
+4: Chip Away		(Normal)	19/20	PP	🎯 100
+
+☢️  Arbok uses Sludge Wave!
+💯  Critical hit!
+💢  Fearow takes 12 damage!
+
+(TEST) WIN4: 0
+Name:		Fearow
+Level:		1
+Type:		Normal Flying 
+HP:		55/67
+EXP:		0/1
+Attacks:	Chip Away, False Swipe, Acrobatics, Peck
+
+Name:		Arbok
+Level:		1
+Type:		Poison 
+HP:		57/62
+EXP:		0/1
+Attacks:	Sludge Wave, Cross Poison, Venoshock, Chip Away
+
+⚪  Fearow uses False Swipe!
+💢  Arbok takes 3 damage!
+
+(TEST) WIN3: 0
+TEST: Fearow
+What will you do?
+1: Fight
+2: Use Potion
+3: Swap
+
+Pick an attack		⚔️
+1: Sludge Wave		(Poison)	9/10	PP	🎯 100
+2: Cross Poison		(Poison)	20/20	PP	🎯 100
+3: Venoshock		(Poison)	10/10	PP	🎯 100
+4: Chip Away		(Normal)	19/20	PP	🎯 100
+
+☢️  Arbok uses Venoshock!
+💢  Fearow takes 5 damage!
+
+(TEST) WIN4: 0
+Name:		Fearow
+Level:		1
+Type:		Normal Flying 
+HP:		50/67
+EXP:		0/1
+Attacks:	Chip Away, False Swipe, Acrobatics, Peck
+
+Name:		Arbok
+Level:		1
+Type:		Poison 
+HP:		54/62
+EXP:		0/1
+Attacks:	Sludge Wave, Cross Poison, Venoshock, Chip Away
+
+⚪  Fearow uses Chip Away!
+💢  Arbok takes 5 damage!
+
+(TEST) WIN3: 0
+TEST: Fearow
+What will you do?
+1: Fight
+2: Use Potion
+3: Swap
+
+Pick an attack		⚔️
+1: Sludge Wave		(Poison)	9/10	PP	🎯 100
+2: Cross Poison		(Poison)	20/20	PP	🎯 100
+3: Venoshock		(Poison)	9/10	PP	🎯 100
+4: Chip Away		(Normal)	19/20	PP	🎯 100
+
+☢️  Arbok uses Cross Poison!
+💢  Fearow takes 4 damage!
+
+(TEST) WIN4: 0
+Name:		Fearow
+Level:		1
+Type:		Normal Flying 
+HP:		46/67
+EXP:		0/1
+Attacks:	Chip Away, False Swipe, Acrobatics, Peck
+
+Name:		Arbok
+Level:		1
+Type:		Poison 
+HP:		49/62
+EXP:		0/1
+Attacks:	Sludge Wave, Cross Poison, Venoshock, Chip Away
+
+Ash uses a Potion!
+⛑️  Fearow restores 20 health!
+
+Fearow restored 20 HP!
+(TEST) WIN3: 0
+TEST: Fearow
+What will you do?
+1: Fight
+2: Use Potion
+3: Swap
+
+Pick an attack		⚔️
+1: Sludge Wave		(Poison)	9/10	PP	🎯 100
+2: Cross Poison		(Poison)	19/20	PP	🎯 100
+3: Venoshock		(Poison)	9/10	PP	🎯 100
+4: Chip Away		(Normal)	19/20	PP	🎯 100
+
+⚪  Arbok uses Chip Away!
+💢  Fearow takes 5 damage!
+
+(TEST) WIN4: 0
+Name:		Fearow
+Level:		1
+Type:		Normal Flying 
+HP:		61/67
+EXP:		0/1
+Attacks:	Chip Away, False Swipe, Acrobatics, Peck
+
+Name:		Arbok
+Level:		1
+Type:		Poison 
+HP:		49/62
+EXP:		0/1
+Attacks:	Sludge Wave, Cross Poison, Venoshock, Chip Away
+
+🎈  Fearow uses Acrobatics!
+💯  Critical hit!
+💢  Arbok takes 9 damage!
+
+(TEST) WIN3: 0
+TEST: Fearow
+What will you do?
+1: Fight
+2: Use Potion
+3: Swap
+
+Pick an attack		⚔️
+1: Sludge Wave		(Poison)	9/10	PP	🎯 100
+2: Cross Poison		(Poison)	19/20	PP	🎯 100
+3: Venoshock		(Poison)	9/10	PP	🎯 100
+4: Chip Away		(Normal)	18/20	PP	🎯 100
+
+☢️  Arbok uses Sludge Wave!
+💢  Fearow takes 5 damage!
+
+(TEST) WIN4: 0
+Name:		Fearow
+Level:		1
+Type:		Normal Flying 
+HP:		56/67
+EXP:		0/1
+Attacks:	Chip Away, False Swipe, Acrobatics, Peck
+
+Name:		Arbok
+Level:		1
+Type:		Poison 
+HP:		40/62
+EXP:		0/1
+Attacks:	Sludge Wave, Cross Poison, Venoshock, Chip Away
+
+🎈  Fearow uses Acrobatics!
+💢  Arbok takes 4 damage!
+
+(TEST) WIN3: 0
+TEST: Fearow
+What will you do?
+1: Fight
+2: Use Potion
+3: Swap
+
+Pick an attack		⚔️
+1: Sludge Wave		(Poison)	8/10	PP	🎯 100
+2: Cross Poison		(Poison)	19/20	PP	🎯 100
+3: Venoshock		(Poison)	9/10	PP	🎯 100
+4: Chip Away		(Normal)	18/20	PP	🎯 100
+
+☢️  Arbok uses Venoshock!
+💢  Fearow takes 4 damage!
+
+(TEST) WIN4: 0
+Name:		Fearow
+Level:		1
+Type:		Normal Flying 
+HP:		52/67
+EXP:		0/1
+Attacks:	Chip Away, False Swipe, Acrobatics, Peck
+
+Name:		Arbok
+Level:		1
+Type:		Poison 
+HP:		36/62
+EXP:		0/1
+Attacks:	Sludge Wave, Cross Poison, Venoshock, Chip Away
+
+⚪  Fearow uses False Swipe!
+💯  Critical hit!
+💢  Arbok takes 6 damage!
+
+(TEST) WIN3: 0
+TEST: Fearow
+What will you do?
+1: Fight
+2: Use Potion
+3: Swap
+
+Pick an attack		⚔️
+1: Sludge Wave		(Poison)	8/10	PP	🎯 100
+2: Cross Poison		(Poison)	19/20	PP	🎯 100
+3: Venoshock		(Poison)	8/10	PP	🎯 100
+4: Chip Away		(Normal)	18/20	PP	🎯 100
+
+☢️  Arbok uses Cross Poison!
+💢  Fearow takes 5 damage!
+
+(TEST) WIN4: 0
+Name:		Fearow
+Level:		1
+Type:		Normal Flying 
+HP:		47/67
+EXP:		0/1
+Attacks:	Chip Away, False Swipe, Acrobatics, Peck
+
+Name:		Arbok
+Level:		1
+Type:		Poison 
+HP:		30/62
+EXP:		0/1
+Attacks:	Sludge Wave, Cross Poison, Venoshock, Chip Away
+
+🎈  Fearow uses Peck!
+💢  Arbok takes 3 damage!
+
+(TEST) WIN3: 0
+TEST: Fearow
+What will you do?
+1: Fight
+2: Use Potion
+3: Swap
+
+Pick an attack		⚔️
+1: Sludge Wave		(Poison)	8/10	PP	🎯 100
+2: Cross Poison		(Poison)	18/20	PP	🎯 100
+3: Venoshock		(Poison)	8/10	PP	🎯 100
+4: Chip Away		(Normal)	18/20	PP	🎯 100
+
+⚪  Arbok uses Chip Away!
+💢  Fearow takes 5 damage!
+
+(TEST) WIN4: 0
+Name:		Fearow
+Level:		1
+Type:		Normal Flying 
+HP:		42/67
+EXP:		0/1
+Attacks:	Chip Away, False Swipe, Acrobatics, Peck
+
+Name:		Arbok
+Level:		1
+Type:		Poison 
+HP:		27/62
+EXP:		0/1
+Attacks:	Sludge Wave, Cross Poison, Venoshock, Chip Away
+
+⚪  Fearow uses Chip Away!
+💢  Arbok takes 5 damage!
+
+(TEST) WIN3: 0
+TEST: Fearow
+What will you do?
+1: Fight
+2: Use Potion
+3: Swap
+
+Pick an attack		⚔️
+1: Sludge Wave		(Poison)	8/10	PP	🎯 100
+2: Cross Poison		(Poison)	18/20	PP	🎯 100
+3: Venoshock		(Poison)	8/10	PP	🎯 100
+4: Chip Away		(Normal)	17/20	PP	🎯 100
+
+☢️  Arbok uses Sludge Wave!
+💯  Critical hit!
+💢  Fearow takes 12 damage!
+
+(TEST) WIN4: 0
+Name:		Fearow
+Level:		1
+Type:		Normal Flying 
+HP:		30/67
+EXP:		0/1
+Attacks:	Chip Away, False Swipe, Acrobatics, Peck
+
+Name:		Arbok
+Level:		1
+Type:		Poison 
+HP:		22/62
+EXP:		0/1
+Attacks:	Sludge Wave, Cross Poison, Venoshock, Chip Away
+
+🎈  Fearow uses Peck!
+💢  Arbok takes 3 damage!
+
+(TEST) WIN3: 0
+TEST: Fearow
+What will you do?
+1: Fight
+2: Use Potion
+3: Swap
+
+Pick an attack		⚔️
+1: Sludge Wave		(Poison)	7/10	PP	🎯 100
+2: Cross Poison		(Poison)	18/20	PP	🎯 100
+3: Venoshock		(Poison)	8/10	PP	🎯 100
+4: Chip Away		(Normal)	17/20	PP	🎯 100
+
+☢️  Arbok uses Venoshock!
+💢  Fearow takes 4 damage!
+
+(TEST) WIN4: 0
+Name:		Fearow
+Level:		1
+Type:		Normal Flying 
+HP:		26/67
+EXP:		0/1
+Attacks:	Chip Away, False Swipe, Acrobatics, Peck
+
+Name:		Arbok
+Level:		1
+Type:		Poison 
+HP:		19/62
+EXP:		0/1
+Attacks:	Sludge Wave, Cross Poison, Venoshock, Chip Away
+
+🎈  Fearow uses Acrobatics!
+💢  Arbok takes 4 damage!
+
+(TEST) WIN3: 0
+TEST: Fearow
+What will you do?
+1: Fight
+2: Use Potion
+3: Swap
+
+Pick an attack		⚔️
+1: Sludge Wave		(Poison)	7/10	PP	🎯 100
+2: Cross Poison		(Poison)	18/20	PP	🎯 100
+3: Venoshock		(Poison)	7/10	PP	🎯 100
+4: Chip Away		(Normal)	17/20	PP	🎯 100
+
+☢️  Arbok uses Cross Poison!
+💢  Fearow takes 5 damage!
+
+(TEST) WIN4: 0
+Name:		Fearow
+Level:		1
+Type:		Normal Flying 
+HP:		21/67
+EXP:		0/1
+Attacks:	Chip Away, False Swipe, Acrobatics, Peck
+
+Name:		Arbok
+Level:		1
+Type:		Poison 
+HP:		15/62
+EXP:		0/1
+Attacks:	Sludge Wave, Cross Poison, Venoshock, Chip Away
+
+⚪  Fearow uses Chip Away!
+💢  Arbok takes 5 damage!
+
+(TEST) WIN3: 0
+TEST: Fearow
+What will you do?
+1: Fight
+2: Use Potion
+3: Swap
+
+Pick an attack		⚔️
+1: Sludge Wave		(Poison)	7/10	PP	🎯 100
+2: Cross Poison		(Poison)	17/20	PP	🎯 100
+3: Venoshock		(Poison)	7/10	PP	🎯 100
+4: Chip Away		(Normal)	17/20	PP	🎯 100
+
+⚪  Arbok uses Chip Away!
+💢  Fearow takes 5 damage!
+
+(TEST) WIN4: 0
+Name:		Fearow
+Level:		1
+Type:		Normal Flying 
+HP:		16/67
+EXP:		0/1
+Attacks:	Chip Away, False Swipe, Acrobatics, Peck
+
+Name:		Arbok
+Level:		1
+Type:		Poison 
+HP:		10/62
+EXP:		0/1
+Attacks:	Sludge Wave, Cross Poison, Venoshock, Chip Away
+
+⚪  Fearow uses False Swipe!
+💢  Arbok takes 4 damage!
+
+(TEST) WIN3: 0
+TEST: Fearow
+What will you do?
+1: Fight
+2: Use Potion
+3: Swap
+
+Pick an attack		⚔️
+1: Sludge Wave		(Poison)	7/10	PP	🎯 100
+2: Cross Poison		(Poison)	17/20	PP	🎯 100
+3: Venoshock		(Poison)	7/10	PP	🎯 100
+4: Chip Away		(Normal)	16/20	PP	🎯 100
+
+☢️  Arbok uses Sludge Wave!
+💢  Fearow takes 6 damage!
+
+(TEST) WIN4: 0
+Name:		Fearow
+Level:		1
+Type:		Normal Flying 
+HP:		10/67
+EXP:		0/1
+Attacks:	Chip Away, False Swipe, Acrobatics, Peck
+
+Name:		Arbok
+Level:		1
+Type:		Poison 
+HP:		6/62
+EXP:		0/1
+Attacks:	Sludge Wave, Cross Poison, Venoshock, Chip Away
+
+⚪  Fearow uses False Swipe!
+💢  Arbok takes 4 damage!
+
+(TEST) WIN3: 0
+TEST: Fearow
+What will you do?
+1: Fight
+2: Use Potion
+3: Swap
+
+Pick an attack		⚔️
+1: Sludge Wave		(Poison)	6/10	PP	🎯 100
+2: Cross Poison		(Poison)	17/20	PP	🎯 100
+3: Venoshock		(Poison)	7/10	PP	🎯 100
+4: Chip Away		(Normal)	16/20	PP	🎯 100
+
+☢️  Arbok uses Venoshock!
+💢  Fearow takes 4 damage!
+
+(TEST) WIN4: 0
+Name:		Fearow
+Level:		1
+Type:		Normal Flying 
+HP:		6/67
+EXP:		0/1
+Attacks:	Chip Away, False Swipe, Acrobatics, Peck
+
+Name:		Arbok
+Level:		1
+Type:		Poison 
+HP:		2/62
+EXP:		0/1
+Attacks:	Sludge Wave, Cross Poison, Venoshock, Chip Away
+
+⚪  Fearow uses Chip Away!
+💢  Arbok takes 5 damage!
+
+Arbok has fainted!
+
+Arbok has been released!
+(TEST) WIN3: -2
+You have lost the game...

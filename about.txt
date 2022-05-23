@@ -1,0 +1,105 @@
+WEEK 0
+Build classes, sub-classes & hierarchy
+Trainer contains Pokemon contains Attack
+Trainer contains Item
+Unit testing for constructors & basic functions
+Read all_pokemon from txt file
+Think of a game sequence
+Write setup phase for main.cpp
+Skeletal Makefile
+
+WEEK 1
+srand(TIME(NULL)) in main.cpp
+Write prep phase
+Pokemart to buy items
+Globalize **all_pokemon as static array
+Add in atk,def,spd stats for Pokemon
+Damage calculation formulas
+Write first wild Pokemon encounter, 1v1 with starter
+Possible outcomes of encounter:
+1. Wild Pokemon faints, gain XP & money
+2. Wild Pokemon is caught, -1 pokeball, +1 tamePokemon
+3. Starter faints - lose game, return 0 in main
+
+WEEK 2
+Make items work
+Pokeball catch chance formula
+Type effectiveness chart array
+Cycle wild encounter 10x
+Option to run from encounter
+Write rest phase
+Write first trainer battle
+Trainer generate_inv, able to use potions
+Win and loss scenarios
+Write upgrade phase
+Write item tier levels
+
+WEEK 3
+Remove unused functions and overlapping variables
+Add more comments
+Catch bad inputs with do...while, cin.clear & cin.ignore
+Test bad inputs at every stage with input.txt
+Multiple input and output txt files
+Make bash testall file
+
+WEEK 4
+Split XP between all participants of battle
+Improve/fix tests
+Fix virtual class functions
+Fix old tests
+
+TESTING
+Unit testing: test_attack, test_pokemon, test_trainer, test_item
+Tests for challenge & perk phases: test_challenge, test_upgrade
+Tests for encounter phase: input.txt
+
+Base classes are: Attack, Pokemon, Trainer, Item
+Sub classes are: tamePokemon, opponent & player, Pokeball & Potion & TM.
+Player actions are done by prompting for input from provided choices.
+
+
+
+< Game Sequence >
+
+- Setup Phase -
+1. Choose a level 5 starter - Bulbasaur/Charmander/Squirtle
+2. Starting inv: 5 pokeballs, $1000
+
+=======================     Cycle 1     =======================
+- Prep Phase -
+1a. Either use items (potions only usable on Pokemon w/o full HP) or visit Poke Mart.
+1b. Option to release Pokemon if team is bigger than 1
+2. Poke Mart: $200/Pokeball, $300/Potion, $500/TM
+(Cost increases by $50 per cycle)
+3. Continue ->
+
+- Encounter Phase -
+1. Encounter 10 wild Pokemon of level around player's lowest & highest leveled Pokemons.
+2a. Wild Pokemon is caught - health restored, added to team. Player can only have 6 Pokemon at a time.
+2b. Wild Pokemon is defeated - all participant Pokemons gain equal amount of EXP, player gains $ equal to total EXP.
+2c. Player's Pokemon is defeated - defeated Pokemon are automatically released, encounter continues
+2d. Player's whole team is defeated - lol
+
+- Rest Phase -
+1. All Pokemon restore (Cycle * 20) HP
+2. Option to use items
+3. Continue ->
+
+- Challenge Phase -
+1. Opponent trainer is generated with same no. of Pokemons (min. 3)
+2. Opponent's lowest level Pokemon is at average level of player's team
+3a. Trainer's team is defeated - all participant Pokemons gain equal amount of EXP, player gains $ equal to total EXP.
+3b. Player's whole team is defeated - :(
+
+- Upgrade Phase -
+1. Upgrade pokeballs (retroactive)
+2. Upgrade potions (retroactive)
+3. Level up a Pokemon (not beyond 100)
+=======================     Next Cycle     =======================
+
+Limitations:
+Pokemon don't evolve
+Pokemon with different forms are treated as different Pokemon (eg Aegislash)
+No legendary or mega Pokemon either
+Attacks have no additional effects (eg Poison/Leech Health/Multi-turn attacks)
+Team order cannot be changed, first Pokemon always goes first

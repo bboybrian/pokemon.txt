@@ -1,0 +1,1151 @@
+
+Enter a name:
+Name your Shieldon:
+
+Name your Zubat:
+
+Name your Leafeon:
+
+Name your Pichu:
+
+Name your Leavanny:
+
+Name your Bellossom:
+
+😀        Brian's Team        😀
+1: First   (Shieldon) LVL 100 Rock Steel
+2: Second   (Zubat) LVL 100 Poison Flying
+3: Third   (Leafeon) LVL 100 Grass
+4: Fourth   (Pichu) LVL 100 Electric
+5: Fifth   (Leavanny) LVL 100 Bug Grass
+6: Sixth   (Bellossom) LVL 100 Grass
+
+🎒        Backpack        🎒
+Money:	$1000
+Amt.	Name			Description
+5	Pokeball		A round device used to catch and contain Pokémon.
+0	Potion			Restores a Pokemon by 20HP.
+0	TM			Teaches a Pokemon a new move, based on its type.
+
+⏩       Challenge Phase        ⏩
+
+⚔️    Ash: “Technology is incredible! The power of C++ is staggering!”    ⚔️
+😀        Ash's Team        😀
+1: Sunkern LVL 10 Grass
+2: Venonat LVL 11 Bug Poison
+3: Feebas LVL 13 Water
+4: Florges LVL 15 Fairy
+5: Carracosta LVL 17 Water Rock
+6: Bidoof LVL 19 Normal
+
+😀        Brian's Team        😀
+1: First   (Shieldon) LVL 100 Rock Steel
+2: Second   (Zubat) LVL 100 Poison Flying
+3: Third   (Leafeon) LVL 100 Grass
+4: Fourth   (Pichu) LVL 100 Electric
+5: Fifth   (Leavanny) LVL 100 Bug Grass
+6: Sixth   (Bellossom) LVL 100 Grass
+
+OPPO.CURRENTOUT: 0
+Name:		Sunkern
+Level:		10
+Type:		Grass 
+HP:		50/50
+EXP:		729/1000
+Attacks:	Vine Whip, Branch Poke, Drum Beating, Quick Attack
+
+Name:		First	(Shieldon)
+Level:		100
+Type:		Rock Steel 
+HP:		230/230
+EXP:		970299/1000000
+Attacks:	Smack Down, Stone Edge, Iron Head, Behemoth Bash
+
+What will you do?
+1: Fight
+2: Use Potion
+3: Swap
+Invalid input!
+
+1: Fight
+2: Use Potion
+3: Swap
+
+1: Fight
+2: Use Potion
+3: Swap
+
+1: Fight
+2: Use Potion
+3: Swap
+
+1: Fight
+2: Use Potion
+3: Swap
+
+Which Pokemon will you send?
+Choose a Pokemon
+😀        Brian's Team        😀
+1: First   (Shieldon) LVL 100 Rock Steel
+2: Second   (Zubat) LVL 100 Poison Flying
+3: Third   (Leafeon) LVL 100 Grass
+4: Fourth   (Pichu) LVL 100 Electric
+5: Fifth   (Leavanny) LVL 100 Bug Grass
+6: Sixth   (Bellossom) LVL 100 Grass
+
+Invalid input!
+
+Choose a Pokemon
+😀        Brian's Team        😀
+1: First   (Shieldon) LVL 100 Rock Steel
+2: Second   (Zubat) LVL 100 Poison Flying
+3: Third   (Leafeon) LVL 100 Grass
+4: Fourth   (Pichu) LVL 100 Electric
+5: Fifth   (Leavanny) LVL 100 Bug Grass
+6: Sixth   (Bellossom) LVL 100 Grass
+
+
+Choose a Pokemon
+😀        Brian's Team        😀
+1: First   (Shieldon) LVL 100 Rock Steel
+2: Second   (Zubat) LVL 100 Poison Flying
+3: Third   (Leafeon) LVL 100 Grass
+4: Fourth   (Pichu) LVL 100 Electric
+5: Fifth   (Leavanny) LVL 100 Bug Grass
+6: Sixth   (Bellossom) LVL 100 Grass
+
+
+Choose a Pokemon
+😀        Brian's Team        😀
+1: First   (Shieldon) LVL 100 Rock Steel
+2: Second   (Zubat) LVL 100 Poison Flying
+3: Third   (Leafeon) LVL 100 Grass
+4: Fourth   (Pichu) LVL 100 Electric
+5: Fifth   (Leavanny) LVL 100 Bug Grass
+6: Sixth   (Bellossom) LVL 100 Grass
+
+
+Choose a Pokemon
+😀        Brian's Team        😀
+1: First   (Shieldon) LVL 100 Rock Steel
+2: Second   (Zubat) LVL 100 Poison Flying
+3: Third   (Leafeon) LVL 100 Grass
+4: Fourth   (Pichu) LVL 100 Electric
+5: Fifth   (Leavanny) LVL 100 Bug Grass
+6: Sixth   (Bellossom) LVL 100 Grass
+
+
+Go, First!
+(TEST) WIN1: 0
+⚪  Sunkern uses Quick Attack!
+🤔  It's not very effective...
+First's HP remains unchanged.
+
+(TEST) WIN2: 0
+OPPO.CURRENTOUT: 0
+Name:		Sunkern
+Level:		10
+Type:		Grass 
+HP:		50/50
+EXP:		729/1000
+Attacks:	Vine Whip, Branch Poke, Drum Beating, Quick Attack
+
+Name:		First	(Shieldon)
+Level:		100
+Type:		Rock Steel 
+HP:		230/230
+EXP:		970299/1000000
+Attacks:	Smack Down, Stone Edge, Iron Head, Behemoth Bash
+
+What will you do?
+1: Fight
+2: Use Potion
+3: Swap
+Invalid input!
+
+1: Fight
+2: Use Potion
+3: Swap
+
+1: Fight
+2: Use Potion
+3: Swap
+
+1: Fight
+2: Use Potion
+3: Swap
+
+1: Fight
+2: Use Potion
+3: Swap
+
+Pick an attack		⚔️
+1: Smack Down		(Rock)		15/15	PP	🎯 100
+2: Stone Edge		(Rock)		5/5	PP	🎯 80
+3: Iron Head		(Steel)		15/15	PP	🎯 100
+4: Behemoth Bash	(Steel)		5/5	PP	🎯 100
+
+🗿  First uses Smack Down!
+💢  Sunkern takes 136 damage!
+
+Sunkern has fainted!
+
+(TEST) WIN1: 1
+You have earned $119!
+
+
+Ash sends out Venonat !
+
+(TEST) WIN2: 0
+OPPO.CURRENTOUT: 1
+Name:		Venonat
+Level:		11
+Type:		Bug Poison 
+HP:		82/82
+EXP:		1000/1331
+Attacks:	Lunge, Bug Buzz, Acid, Venoshock
+
+Name:		First	(Shieldon)
+Level:		100
+Type:		Rock Steel 
+HP:		230/230
+EXP:		970299/1000000
+Attacks:	Smack Down, Stone Edge, Iron Head, Behemoth Bash
+
+What will you do?
+1: Fight
+2: Use Potion
+3: Swap
+
+Pick an attack		⚔️
+1: Smack Down		(Rock)		14/15	PP	🎯 100
+2: Stone Edge		(Rock)		5/5	PP	🎯 80
+3: Iron Head		(Steel)		15/15	PP	🎯 100
+4: Behemoth Bash	(Steel)		5/5	PP	🎯 100
+
+🗿  First uses Smack Down!
+💪  It's super effective!
+💢  Venonat takes 185 damage!
+
+Venonat has fainted!
+
+(TEST) WIN1: 1
+You have earned $205!
+
+
+Ash sends out Feebas !
+
+(TEST) WIN2: 0
+OPPO.CURRENTOUT: 2
+Name:		Feebas
+Level:		13
+Type:		Water 
+HP:		46/46
+EXP:		1728/2197
+Attacks:	Bubble, Muddy Water, Surf, Chip Away
+
+Name:		First	(Shieldon)
+Level:		100
+Type:		Rock Steel 
+HP:		230/230
+EXP:		970299/1000000
+Attacks:	Smack Down, Stone Edge, Iron Head, Behemoth Bash
+
+What will you do?
+1: Fight
+2: Use Potion
+3: Swap
+
+Pick an attack		⚔️
+1: Smack Down		(Rock)		13/15	PP	🎯 100
+2: Stone Edge		(Rock)		5/5	PP	🎯 80
+3: Iron Head		(Steel)		15/15	PP	🎯 100
+4: Behemoth Bash	(Steel)		5/5	PP	🎯 100
+
+🗿  First uses Smack Down!
+💢  Feebas takes 160 damage!
+
+Feebas has fainted!
+
+(TEST) WIN1: 1
+You have earned $182!
+
+
+Ash sends out Florges !
+
+(TEST) WIN2: 0
+OPPO.CURRENTOUT: 3
+Name:		Florges
+Level:		15
+Type:		Fairy 
+HP:		108/108
+EXP:		2744/3375
+Attacks:	Strange Steam, Sparkly Swirl, Moonblast, False Swipe
+
+Name:		First	(Shieldon)
+Level:		100
+Type:		Rock Steel 
+HP:		230/230
+EXP:		970299/1000000
+Attacks:	Smack Down, Stone Edge, Iron Head, Behemoth Bash
+
+What will you do?
+1: Fight
+2: Use Potion
+3: Swap
+
+Pick an attack		⚔️
+1: Smack Down		(Rock)		12/15	PP	🎯 100
+2: Stone Edge		(Rock)		5/5	PP	🎯 80
+3: Iron Head		(Steel)		15/15	PP	🎯 100
+4: Behemoth Bash	(Steel)		5/5	PP	🎯 100
+
+🗿  First uses Smack Down!
+💯  Critical hit!
+💢  Florges takes 130 damage!
+
+Florges has fainted!
+
+(TEST) WIN1: 1
+You have earned $383!
+
+
+Ash sends out Carracosta !
+
+(TEST) WIN2: 0
+OPPO.CURRENTOUT: 4
+Name:		Carracosta
+Level:		17
+Type:		Water Rock 
+HP:		108/108
+EXP:		4096/4913
+Attacks:	Waterfall, Aqua Jet, Ancient Power, Rock Throw
+
+Name:		First	(Shieldon)
+Level:		100
+Type:		Rock Steel 
+HP:		230/230
+EXP:		970299/1000000
+Attacks:	Smack Down, Stone Edge, Iron Head, Behemoth Bash
+
+What will you do?
+1: Fight
+2: Use Potion
+3: Swap
+
+Pick an attack		⚔️
+1: Smack Down		(Rock)		11/15	PP	🎯 100
+2: Stone Edge		(Rock)		5/5	PP	🎯 80
+3: Iron Head		(Steel)		15/15	PP	🎯 100
+4: Behemoth Bash	(Steel)		5/5	PP	🎯 100
+
+🗿  First uses Smack Down!
+💢  Carracosta takes 37 damage!
+
+(TEST) WIN1: 0
+Ash uses a Potion!
+⛑️  Carracosta restores 20 health!
+
+Carracosta restored 20 HP!
+(TEST) WIN2: 0
+OPPO.CURRENTOUT: 4
+Name:		Carracosta
+Level:		17
+Type:		Water Rock 
+HP:		91/108
+EXP:		4096/4913
+Attacks:	Waterfall, Aqua Jet, Ancient Power, Rock Throw
+
+Name:		First	(Shieldon)
+Level:		100
+Type:		Rock Steel 
+HP:		230/230
+EXP:		970299/1000000
+Attacks:	Smack Down, Stone Edge, Iron Head, Behemoth Bash
+
+What will you do?
+1: Fight
+2: Use Potion
+3: Swap
+
+Pick an attack		⚔️
+1: Smack Down		(Rock)		10/15	PP	🎯 100
+2: Stone Edge		(Rock)		5/5	PP	🎯 80
+3: Iron Head		(Steel)		15/15	PP	🎯 100
+4: Behemoth Bash	(Steel)		5/5	PP	🎯 100
+
+🗿  First uses Smack Down!
+💢  Carracosta takes 40 damage!
+
+(TEST) WIN1: 0
+Ash uses a Potion!
+⛑️  Carracosta restores 20 health!
+
+Carracosta restored 20 HP!
+(TEST) WIN2: 0
+OPPO.CURRENTOUT: 4
+Name:		Carracosta
+Level:		17
+Type:		Water Rock 
+HP:		71/108
+EXP:		4096/4913
+Attacks:	Waterfall, Aqua Jet, Ancient Power, Rock Throw
+
+Name:		First	(Shieldon)
+Level:		100
+Type:		Rock Steel 
+HP:		230/230
+EXP:		970299/1000000
+Attacks:	Smack Down, Stone Edge, Iron Head, Behemoth Bash
+
+What will you do?
+1: Fight
+2: Use Potion
+3: Swap
+
+Pick an attack		⚔️
+1: Smack Down		(Rock)		9/15	PP	🎯 100
+2: Stone Edge		(Rock)		5/5	PP	🎯 80
+3: Iron Head		(Steel)		15/15	PP	🎯 100
+4: Behemoth Bash	(Steel)		5/5	PP	🎯 100
+
+🗿  First uses Smack Down!
+💢  Carracosta takes 40 damage!
+
+(TEST) WIN1: 0
+Ash uses a Potion!
+⛑️  Carracosta restores 20 health!
+
+Carracosta restored 20 HP!
+(TEST) WIN2: 0
+OPPO.CURRENTOUT: 4
+Name:		Carracosta
+Level:		17
+Type:		Water Rock 
+HP:		51/108
+EXP:		4096/4913
+Attacks:	Waterfall, Aqua Jet, Ancient Power, Rock Throw
+
+Name:		First	(Shieldon)
+Level:		100
+Type:		Rock Steel 
+HP:		230/230
+EXP:		970299/1000000
+Attacks:	Smack Down, Stone Edge, Iron Head, Behemoth Bash
+
+What will you do?
+1: Fight
+2: Use Potion
+3: Swap
+
+Pick an attack		⚔️
+1: Smack Down		(Rock)		8/15	PP	🎯 100
+2: Stone Edge		(Rock)		5/5	PP	🎯 80
+3: Iron Head		(Steel)		15/15	PP	🎯 100
+4: Behemoth Bash	(Steel)		5/5	PP	🎯 100
+
+🗿  First uses Stone Edge!
+💢  Carracosta takes 75 damage!
+
+Carracosta has fainted!
+
+(TEST) WIN1: 1
+You have earned $520!
+
+
+Ash sends out Bidoof !
+
+(TEST) WIN2: 0
+⏩       Challenge Phase        ⏩
+
+⚔️    Youngster Joey: “Technology is incredible! The power of C++ is staggering!”    ⚔️
+😀        Youngster Joey's Team        😀
+1: Spewpa LVL 10 Bug
+2: Infernape LVL 11 Fire Fighting
+3: Parasect LVL 13 Bug Grass
+4: Paras LVL 15 Bug Grass
+5: Seismitoad LVL 17 Water Ground
+6: Abomasnow LVL 19 Grass Ice
+
+😀        Brian's Team        😀
+1: First   (Shieldon) LVL 100 Rock Steel
+2: Second   (Zubat) LVL 100 Poison Flying
+3: Third   (Leafeon) LVL 100 Grass
+4: Fourth   (Pichu) LVL 100 Electric
+5: Fifth   (Leavanny) LVL 100 Bug Grass
+6: Sixth   (Bellossom) LVL 100 Grass
+
+OPPO.CURRENTOUT: 0
+Name:		Spewpa
+Level:		10
+Type:		Bug 
+HP:		65/65
+EXP:		729/1000
+Attacks:	X-Scissor, Lunge, Steamroller, False Swipe
+
+Name:		First	(Shieldon)
+Level:		100
+Type:		Rock Steel 
+HP:		230/230
+EXP:		970299/1000000
+Attacks:	Smack Down, Stone Edge, Iron Head, Behemoth Bash
+
+What will you do?
+1: Fight
+2: Use Potion
+3: Swap
+
+Pick an attack		⚔️
+1: Smack Down		(Rock)		8/15	PP	🎯 100
+2: Stone Edge		(Rock)		4/5	PP	🎯 80
+3: Iron Head		(Steel)		15/15	PP	🎯 100
+4: Behemoth Bash	(Steel)		5/5	PP	🎯 100
+
+🗿  First uses Stone Edge!
+💪  It's super effective!
+💢  Spewpa takes 295 damage!
+
+Spewpa has fainted!
+
+(TEST) WIN1: 1
+You have earned $145!
+
+
+Youngster Joey sends out Infernape !
+
+(TEST) WIN2: 0
+OPPO.CURRENTOUT: 1
+Name:		Infernape
+Level:		11
+Type:		Fire Fighting 
+HP:		98/98
+EXP:		1000/1331
+Attacks:	Blaze Kick, Heat Wave, Rolling Kick, Brick Break
+
+Name:		First	(Shieldon)
+Level:		100
+Type:		Rock Steel 
+HP:		230/230
+EXP:		970299/1000000
+Attacks:	Smack Down, Stone Edge, Iron Head, Behemoth Bash
+
+What will you do?
+1: Fight
+2: Use Potion
+3: Swap
+
+Pick an attack		⚔️
+1: Smack Down		(Rock)		8/15	PP	🎯 100
+2: Stone Edge		(Rock)		3/5	PP	🎯 80
+3: Iron Head		(Steel)		15/15	PP	🎯 100
+4: Behemoth Bash	(Steel)		5/5	PP	🎯 100
+
+🗿  First uses Stone Edge!
+💤  The attack missed!
+
+(TEST) WIN1: 0
+🔥  Infernape uses Blaze Kick!
+💢  First takes 6 damage!
+
+(TEST) WIN2: 0
+OPPO.CURRENTOUT: 1
+Name:		Infernape
+Level:		11
+Type:		Fire Fighting 
+HP:		98/98
+EXP:		1000/1331
+Attacks:	Blaze Kick, Heat Wave, Rolling Kick, Brick Break
+
+Name:		First	(Shieldon)
+Level:		100
+Type:		Rock Steel 
+HP:		224/230
+EXP:		970299/1000000
+Attacks:	Smack Down, Stone Edge, Iron Head, Behemoth Bash
+
+What will you do?
+1: Fight
+2: Use Potion
+3: Swap
+
+Pick an attack		⚔️
+1: Smack Down		(Rock)		8/15	PP	🎯 100
+2: Stone Edge		(Rock)		2/5	PP	🎯 80
+3: Iron Head		(Steel)		15/15	PP	🎯 100
+4: Behemoth Bash	(Steel)		5/5	PP	🎯 100
+
+🗿  First uses Stone Edge!
+💢  Infernape takes 145 damage!
+
+Infernape has fainted!
+
+(TEST) WIN1: 1
+You have earned $322!
+
+
+Youngster Joey sends out Parasect !
+
+(TEST) WIN2: 0
+OPPO.CURRENTOUT: 2
+Name:		Parasect
+Level:		13
+Type:		Bug Grass 
+HP:		86/86
+EXP:		1728/2197
+Attacks:	Steamroller, Bug Buzz, Leaf Storm, Vine Whip
+
+Name:		First	(Shieldon)
+Level:		100
+Type:		Rock Steel 
+HP:		224/230
+EXP:		970299/1000000
+Attacks:	Smack Down, Stone Edge, Iron Head, Behemoth Bash
+
+What will you do?
+1: Fight
+2: Use Potion
+3: Swap
+
+Pick an attack		⚔️
+1: Smack Down		(Rock)		8/15	PP	🎯 100
+2: Stone Edge		(Rock)		1/5	PP	🎯 80
+3: Iron Head		(Steel)		15/15	PP	🎯 100
+4: Behemoth Bash	(Steel)		5/5	PP	🎯 100
+
+🗿  First uses Stone Edge!
+💪  It's super effective!
+💢  Parasect takes 245 damage!
+
+Parasect has fainted!
+
+(TEST) WIN1: 1
+You have earned $303!
+
+
+Youngster Joey sends out Paras !
+
+(TEST) WIN2: 0
+OPPO.CURRENTOUT: 3
+Name:		Paras
+Level:		15
+Type:		Bug Grass 
+HP:		65/65
+EXP:		2744/3375
+Attacks:	Steamroller, Attack Order, Vine Whip, Seed Bomb
+
+Name:		First	(Shieldon)
+Level:		100
+Type:		Rock Steel 
+HP:		224/230
+EXP:		970299/1000000
+Attacks:	Smack Down, Stone Edge, Iron Head, Behemoth Bash
+
+What will you do?
+1: Fight
+2: Use Potion
+3: Swap
+
+Pick an attack		⚔️
+1: Smack Down		(Rock)		8/15	PP	🎯 100
+2: Stone Edge		(Rock)		0/5	PP	🎯 80
+3: Iron Head		(Steel)		15/15	PP	🎯 100
+4: Behemoth Bash	(Steel)		5/5	PP	🎯 100
+
+First has run out of Power Points for Stone Edge!
+Choose another attack -> 
+Pick an attack		⚔️
+1: Smack Down		(Rock)		8/15	PP	🎯 100
+2: Stone Edge		(Rock)		0/5	PP	🎯 80
+3: Iron Head		(Steel)		15/15	PP	🎯 100
+4: Behemoth Bash	(Steel)		5/5	PP	🎯 100
+
+🗿  First uses Smack Down!
+💪  It's super effective!
+💢  Paras takes 152 damage!
+
+Paras has fainted!
+
+(TEST) WIN1: 1
+You have earned $275!
+
+
+Youngster Joey sends out Seismitoad !
+
+(TEST) WIN2: 0
+OPPO.CURRENTOUT: 4
+Name:		Seismitoad
+Level:		17
+Type:		Water Ground 
+HP:		139/139
+EXP:		4096/4913
+Attacks:	Surf, Muddy Water, Earthquake, Land's Wrath
+
+Name:		First	(Shieldon)
+Level:		100
+Type:		Rock Steel 
+HP:		224/230
+EXP:		970299/1000000
+Attacks:	Smack Down, Stone Edge, Iron Head, Behemoth Bash
+
+What will you do?
+1: Fight
+2: Use Potion
+3: Swap
+
+TEST AMT: 0
+You have no potions!
+
+What will you do?
+1: Fight
+2: Use Potion
+3: Swap
+
+Pick an attack		⚔️
+1: Smack Down		(Rock)		7/15	PP	🎯 100
+2: Stone Edge		(Rock)		0/5	PP	🎯 80
+3: Iron Head		(Steel)		15/15	PP	🎯 100
+4: Behemoth Bash	(Steel)		5/5	PP	🎯 100
+
+First has run out of Power Points for Stone Edge!
+Choose another attack -> 
+Pick an attack		⚔️
+1: Smack Down		(Rock)		7/15	PP	🎯 100
+2: Stone Edge		(Rock)		0/5	PP	🎯 80
+3: Iron Head		(Steel)		15/15	PP	🎯 100
+4: Behemoth Bash	(Steel)		5/5	PP	🎯 100
+
+🗿  First uses Smack Down!
+💯  Critical hit!
+🤔  It's not very effective...
+💢  Seismitoad takes 63 damage!
+
+(TEST) WIN1: 0
+Youngster Joey uses a Potion!
+⛑️  Seismitoad restores 20 health!
+
+Seismitoad restored 20 HP!
+(TEST) WIN2: 0
+OPPO.CURRENTOUT: 4
+Name:		Seismitoad
+Level:		17
+Type:		Water Ground 
+HP:		96/139
+EXP:		4096/4913
+Attacks:	Surf, Muddy Water, Earthquake, Land's Wrath
+
+Name:		First	(Shieldon)
+Level:		100
+Type:		Rock Steel 
+HP:		224/230
+EXP:		970299/1000000
+Attacks:	Smack Down, Stone Edge, Iron Head, Behemoth Bash
+
+What will you do?
+1: Fight
+2: Use Potion
+3: Swap
+
+Which Pokemon will you send?
+Choose a Pokemon
+😀        Brian's Team        😀
+1: First   (Shieldon) LVL 100 Rock Steel
+2: Second   (Zubat) LVL 100 Poison Flying
+3: Third   (Leafeon) LVL 100 Grass
+4: Fourth   (Pichu) LVL 100 Electric
+5: Fifth   (Leavanny) LVL 100 Bug Grass
+6: Sixth   (Bellossom) LVL 100 Grass
+
+
+Go, First!
+(TEST) WIN1: 0
+🐘  Seismitoad uses Land's Wrath!
+💥  It's extremely effective!!
+💢  First takes 36 damage!
+
+(TEST) WIN2: 0
+OPPO.CURRENTOUT: 4
+Name:		Seismitoad
+Level:		17
+Type:		Water Ground 
+HP:		96/139
+EXP:		4096/4913
+Attacks:	Surf, Muddy Water, Earthquake, Land's Wrath
+
+Name:		First	(Shieldon)
+Level:		100
+Type:		Rock Steel 
+HP:		188/230
+EXP:		970299/1000000
+Attacks:	Smack Down, Stone Edge, Iron Head, Behemoth Bash
+
+What will you do?
+1: Fight
+2: Use Potion
+3: Swap
+
+Which Pokemon will you send?
+Choose a Pokemon
+😀        Brian's Team        😀
+1: First   (Shieldon) LVL 100 Rock Steel
+2: Second   (Zubat) LVL 100 Poison Flying
+3: Third   (Leafeon) LVL 100 Grass
+4: Fourth   (Pichu) LVL 100 Electric
+5: Fifth   (Leavanny) LVL 100 Bug Grass
+6: Sixth   (Bellossom) LVL 100 Grass
+
+
+Go, First!
+(TEST) WIN1: 0
+🐘  Seismitoad uses Land's Wrath!
+💯  Critical hit!
+💥  It's extremely effective!!
+💢  First takes 64 damage!
+
+(TEST) WIN2: 0
+OPPO.CURRENTOUT: 4
+Name:		Seismitoad
+Level:		17
+Type:		Water Ground 
+HP:		96/139
+EXP:		4096/4913
+Attacks:	Surf, Muddy Water, Earthquake, Land's Wrath
+
+Name:		First	(Shieldon)
+Level:		100
+Type:		Rock Steel 
+HP:		124/230
+EXP:		970299/1000000
+Attacks:	Smack Down, Stone Edge, Iron Head, Behemoth Bash
+
+What will you do?
+1: Fight
+2: Use Potion
+3: Swap
+
+Which Pokemon will you send?
+Choose a Pokemon
+😀        Brian's Team        😀
+1: First   (Shieldon) LVL 100 Rock Steel
+2: Second   (Zubat) LVL 100 Poison Flying
+3: Third   (Leafeon) LVL 100 Grass
+4: Fourth   (Pichu) LVL 100 Electric
+5: Fifth   (Leavanny) LVL 100 Bug Grass
+6: Sixth   (Bellossom) LVL 100 Grass
+
+
+Go, First!
+(TEST) WIN1: 0
+🌊  Seismitoad uses Surf!
+💪  It's super effective!
+💢  First takes 18 damage!
+
+(TEST) WIN2: 0
+OPPO.CURRENTOUT: 4
+Name:		Seismitoad
+Level:		17
+Type:		Water Ground 
+HP:		96/139
+EXP:		4096/4913
+Attacks:	Surf, Muddy Water, Earthquake, Land's Wrath
+
+Name:		First	(Shieldon)
+Level:		100
+Type:		Rock Steel 
+HP:		106/230
+EXP:		970299/1000000
+Attacks:	Smack Down, Stone Edge, Iron Head, Behemoth Bash
+
+What will you do?
+1: Fight
+2: Use Potion
+3: Swap
+
+Which Pokemon will you send?
+Choose a Pokemon
+😀        Brian's Team        😀
+1: First   (Shieldon) LVL 100 Rock Steel
+2: Second   (Zubat) LVL 100 Poison Flying
+3: Third   (Leafeon) LVL 100 Grass
+4: Fourth   (Pichu) LVL 100 Electric
+5: Fifth   (Leavanny) LVL 100 Bug Grass
+6: Sixth   (Bellossom) LVL 100 Grass
+
+
+Go, First!
+(TEST) WIN1: 0
+🐘  Seismitoad uses Land's Wrath!
+💥  It's extremely effective!!
+💢  First takes 36 damage!
+
+(TEST) WIN2: 0
+OPPO.CURRENTOUT: 4
+Name:		Seismitoad
+Level:		17
+Type:		Water Ground 
+HP:		96/139
+EXP:		4096/4913
+Attacks:	Surf, Muddy Water, Earthquake, Land's Wrath
+
+Name:		First	(Shieldon)
+Level:		100
+Type:		Rock Steel 
+HP:		70/230
+EXP:		970299/1000000
+Attacks:	Smack Down, Stone Edge, Iron Head, Behemoth Bash
+
+What will you do?
+1: Fight
+2: Use Potion
+3: Swap
+
+Which Pokemon will you send?
+Choose a Pokemon
+😀        Brian's Team        😀
+1: First   (Shieldon) LVL 100 Rock Steel
+2: Second   (Zubat) LVL 100 Poison Flying
+3: Third   (Leafeon) LVL 100 Grass
+4: Fourth   (Pichu) LVL 100 Electric
+5: Fifth   (Leavanny) LVL 100 Bug Grass
+6: Sixth   (Bellossom) LVL 100 Grass
+
+
+Go, First!
+(TEST) WIN1: 0
+🐘  Seismitoad uses Earthquake!
+💥  It's extremely effective!!
+💢  First takes 36 damage!
+
+(TEST) WIN2: 0
+OPPO.CURRENTOUT: 4
+Name:		Seismitoad
+Level:		17
+Type:		Water Ground 
+HP:		96/139
+EXP:		4096/4913
+Attacks:	Surf, Muddy Water, Earthquake, Land's Wrath
+
+Name:		First	(Shieldon)
+Level:		100
+Type:		Rock Steel 
+HP:		34/230
+EXP:		970299/1000000
+Attacks:	Smack Down, Stone Edge, Iron Head, Behemoth Bash
+
+What will you do?
+1: Fight
+2: Use Potion
+3: Swap
+
+Which Pokemon will you send?
+Choose a Pokemon
+😀        Brian's Team        😀
+1: First   (Shieldon) LVL 100 Rock Steel
+2: Second   (Zubat) LVL 100 Poison Flying
+3: Third   (Leafeon) LVL 100 Grass
+4: Fourth   (Pichu) LVL 100 Electric
+5: Fifth   (Leavanny) LVL 100 Bug Grass
+6: Sixth   (Bellossom) LVL 100 Grass
+
+
+Go, First!
+(TEST) WIN1: 0
+🐘  Seismitoad uses Earthquake!
+💥  It's extremely effective!!
+💢  First takes 40 damage!
+
+First has fainted!
+
+First has been released!
+Which Pokemon will you send?
+Choose a Pokemon
+😀        Brian's Team        😀
+1: Second   (Zubat) LVL 100 Poison Flying
+2: Third   (Leafeon) LVL 100 Grass
+3: Fourth   (Pichu) LVL 100 Electric
+4: Fifth   (Leavanny) LVL 100 Bug Grass
+5: Sixth   (Bellossom) LVL 100 Grass
+
+
+Go, Fourth!
+(TEST) WIN2: 0
+OPPO.CURRENTOUT: 4
+Name:		Seismitoad
+Level:		17
+Type:		Water Ground 
+HP:		96/139
+EXP:		4096/4913
+Attacks:	Surf, Muddy Water, Earthquake, Land's Wrath
+
+Name:		Fourth	(Pichu)
+Level:		100
+Type:		Electric 
+HP:		220/220
+EXP:		970299/1000000
+Attacks:	Thunder, Bolt Beak, Spark, Covet
+
+What will you do?
+1: Fight
+2: Use Potion
+3: Swap
+
+Pick an attack		⚔️
+1: Thunder		(Electric)	10/10	PP	🎯 70
+2: Bolt Beak		(Electric)	10/10	PP	🎯 100
+3: Spark		(Electric)	20/20	PP	🎯 100
+4: Covet		(Normal)	25/25	PP	🎯 100
+
+⚡  Fourth uses Spark!
+💩  It's completely ineffective...
+Seismitoad's HP remains unchanged.
+
+(TEST) WIN1: 0
+🌊  Seismitoad uses Muddy Water!
+💢  Fourth takes 16 damage!
+
+(TEST) WIN2: 0
+OPPO.CURRENTOUT: 4
+Name:		Seismitoad
+Level:		17
+Type:		Water Ground 
+HP:		96/139
+EXP:		4096/4913
+Attacks:	Surf, Muddy Water, Earthquake, Land's Wrath
+
+Name:		Fourth	(Pichu)
+Level:		100
+Type:		Electric 
+HP:		204/220
+EXP:		970299/1000000
+Attacks:	Thunder, Bolt Beak, Spark, Covet
+
+What will you do?
+1: Fight
+2: Use Potion
+3: Swap
+
+Pick an attack		⚔️
+1: Thunder		(Electric)	10/10	PP	🎯 70
+2: Bolt Beak		(Electric)	10/10	PP	🎯 100
+3: Spark		(Electric)	19/20	PP	🎯 100
+4: Covet		(Normal)	25/25	PP	🎯 100
+
+⚡  Fourth uses Spark!
+💯  Critical hit!
+💩  It's completely ineffective...
+Seismitoad's HP remains unchanged.
+
+(TEST) WIN1: 0
+🐘  Seismitoad uses Earthquake!
+💪  It's super effective!
+💢  Fourth takes 31 damage!
+
+(TEST) WIN2: 0
+OPPO.CURRENTOUT: 4
+Name:		Seismitoad
+Level:		17
+Type:		Water Ground 
+HP:		96/139
+EXP:		4096/4913
+Attacks:	Surf, Muddy Water, Earthquake, Land's Wrath
+
+Name:		Fourth	(Pichu)
+Level:		100
+Type:		Electric 
+HP:		173/220
+EXP:		970299/1000000
+Attacks:	Thunder, Bolt Beak, Spark, Covet
+
+What will you do?
+1: Fight
+2: Use Potion
+3: Swap
+
+Pick an attack		⚔️
+1: Thunder		(Electric)	10/10	PP	🎯 70
+2: Bolt Beak		(Electric)	10/10	PP	🎯 100
+3: Spark		(Electric)	18/20	PP	🎯 100
+4: Covet		(Normal)	25/25	PP	🎯 100
+
+⚡  Fourth uses Spark!
+💯  Critical hit!
+💩  It's completely ineffective...
+Seismitoad's HP remains unchanged.
+
+(TEST) WIN1: 0
+🌊  Seismitoad uses Surf!
+💢  Fourth takes 15 damage!
+
+(TEST) WIN2: 0
+OPPO.CURRENTOUT: 4
+Name:		Seismitoad
+Level:		17
+Type:		Water Ground 
+HP:		96/139
+EXP:		4096/4913
+Attacks:	Surf, Muddy Water, Earthquake, Land's Wrath
+
+Name:		Fourth	(Pichu)
+Level:		100
+Type:		Electric 
+HP:		158/220
+EXP:		970299/1000000
+Attacks:	Thunder, Bolt Beak, Spark, Covet
+
+What will you do?
+1: Fight
+2: Use Potion
+3: Swap
+
+Pick an attack		⚔️
+1: Thunder		(Electric)	10/10	PP	🎯 70
+2: Bolt Beak		(Electric)	10/10	PP	🎯 100
+3: Spark		(Electric)	17/20	PP	🎯 100
+4: Covet		(Normal)	25/25	PP	🎯 100
+
+⚪  Fourth uses Covet!
+💢  Seismitoad takes 76 damage!
+
+(TEST) WIN1: 0
+🌊  Seismitoad uses Muddy Water!
+💢  Fourth takes 16 damage!
+
+(TEST) WIN2: 0
+OPPO.CURRENTOUT: 4
+Name:		Seismitoad
+Level:		17
+Type:		Water Ground 
+HP:		20/139
+EXP:		4096/4913
+Attacks:	Surf, Muddy Water, Earthquake, Land's Wrath
+
+Name:		Fourth	(Pichu)
+Level:		100
+Type:		Electric 
+HP:		142/220
+EXP:		970299/1000000
+Attacks:	Thunder, Bolt Beak, Spark, Covet
+
+What will you do?
+1: Fight
+2: Use Potion
+3: Swap
+
+Pick an attack		⚔️
+1: Thunder		(Electric)	10/10	PP	🎯 70
+2: Bolt Beak		(Electric)	10/10	PP	🎯 100
+3: Spark		(Electric)	17/20	PP	🎯 100
+4: Covet		(Normal)	24/25	PP	🎯 100
+
+⚪  Fourth uses Covet!
+💯  Critical hit!
+💢  Seismitoad takes 154 damage!
+
+Seismitoad has fainted!
+
+(TEST) WIN1: 1
+You have earned $523!
+
+
+Youngster Joey sends out Abomasnow !
+
+(TEST) WIN2: 0

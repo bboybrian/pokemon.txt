@@ -1,0 +1,35 @@
+Pokemon construction successful
+tamePokemon construction successful
+Test use_attk and change_hp()
+🌿  Bulbasaur uses Leaf Blade!
+💪  It's super effective!
+💢  Squirtle takes 15 damage!
+
+Test learning a new attack - when player uses TM
+Squirtle has forgotten Surf!
+Squirtle has learned Chip Away!
+
+new_attk successful
+Test print_pkm()
+Name:		Bulbasaur
+Level:		7
+Type:		Grass Poison 
+HP:		59/59
+
+Name:		Squirtle
+Level:		5
+Type:		Water 
+HP:		39/54
+EXP:		64/125
+Attacks:	Aqua Tail, Bubble, Chip Away, Body Slam
+
+Squirtle has gained 1000 EXP!
+✨    Squirtle has leveled up!    ✨
+✨    Squirtle has leveled up!    ✨
+✨    Squirtle has leveled up!    ✨
+✨    Squirtle has leveled up!    ✨
+✨    Squirtle has leveled up!    ✨
+add_xp(int aXP) successful
+Test print_small()
+Bulbasaur LVL 7 Grass Poison
+Squirtle LVL 10 Water
